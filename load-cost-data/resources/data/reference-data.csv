@@ -1,0 +1,201 @@
+REFERENCE,KEY,VALUE
+AREAS,01,Unknown
+AREAS,adoagt,Unknown
+AREAS,ahdc,Unknown
+AREAS,alerts,Unknown
+AREAS,alexa,Unknown
+AREAS,als,Unknown
+AREAS,azarc,Unknown
+AREAS,azbkp,Unknown
+AREAS,azf,Unknown
+AREAS,azinit,Unknown
+AREAS,azinit2,Unknown
+AREAS,aznettest,Unknown
+AREAS,Barcode Allocation,BCAS
+AREAS,barcoding,Unknown
+AREAS,bat,Unknown
+AREAS,big,Big
+AREAS,bigapp,Big
+AREAS,bigint,Big
+AREAS,bigmqa,Big
+AREAS,bigpapi,Big
+AREAS,bigpapisit,Big
+AREAS,bigutil,Big
+AREAS,bldagt,Unknown
+AREAS,bttest,Unknown
+AREAS,caf,Unknown
+AREAS,cci,Unknown
+AREAS,ccib2c,Unknown
+AREAS,ccidem,Unknown
+AREAS,ccidev,Unknown
+AREAS,cdf,Unknown
+AREAS,cfpoc,Unknown
+AREAS,Click and Drop (SF Lite),Click and Drop
+AREAS,cloudmgmt,Unknown
+AREAS,cmg,Unknown
+AREAS,cn,Unknown
+AREAS,Core,Core
+AREAS,cpp,Unknown
+AREAS,dcs,Unknown
+AREAS,ddos,Unknown
+AREAS,dilodo,Unknown
+AREAS,dmz,Unknown
+AREAS,dps,Unknown
+AREAS,drs,Unknown
+AREAS,dsp,Unknown
+AREAS,dst,Unknown
+AREAS,ebiz,Ebiz
+AREAS,edm,Unknown
+AREAS,eis,EIS
+AREAS,elecrep,ElecRep
+AREAS,epsbms,EPS
+AREAS,epsbmsui,EPS
+AREAS,epscommon,EPS
+AREAS,epsmani,EPS
+AREAS,epsmapi,EPS
+AREAS,epsord,EPS
+AREAS,epspapi,EPS
+AREAS,epspb,EPS
+AREAS,epssecapi,EPS
+AREAS,epsshared,EPS
+AREAS,epstapi,EPS
+AREAS,epstdf,EPS
+AREAS,epstibcobw,EPS
+AREAS,epstm,EPS
+AREAS,escore,Unknown
+AREAS,etpc,ETP
+AREAS,etpd,ETP
+AREAS,evhpoc,EvhPoc
+AREAS,fep,FEP
+AREAS,Final Mile Optimisation,Final Mile
+AREAS,g,Unknown
+AREAS,GBI,GBI
+AREAS,gold,Gold
+AREAS,goldbuild,Gold
+AREAS,hue,Unknown
+AREAS,iam,Unknown
+AREAS,id,Unknown
+AREAS,ihc,Unknown
+AREAS,image,Unknown
+AREAS,images,Unknown
+AREAS,infradev,Unknown
+AREAS,intdmz,Unknown
+AREAS,intutil,Unknown
+AREAS,mg,Unknown
+AREAS,Microsoft Centre of Excellence,Unknown
+AREAS,mon,Unknown
+AREAS,O365 OMS,O365
+AREAS,opg,Unknown
+AREAS,oro,Unknown
+AREAS,Outdoor Actuals,Outdoor Actuals
+AREAS,p,Unknown
+AREAS,Parcelforce Worldwide,Parcelforce
+AREAS,pcs,PCS
+AREAS,pda,PDA
+AREAS,pdacomms,PDA
+AREAS,pdacore,PDA
+AREAS,pdacspsms,PDA
+AREAS,pdaff,PDA
+AREAS,pdahandler,PDA
+AREAS,pdaidm,PDA
+AREAS,pdainf,PDA
+AREAS,pdaiot,PDA
+AREAS,pdamds,PDA
+AREAS,pdaportal,PDA
+AREAS,pdarefdata,PDA
+AREAS,pdatest,PDA
+AREAS,pdatma,PDA
+AREAS,peg,Unknown
+AREAS,pfw,Parcelforce
+AREAS,pgfs,Unknown
+AREAS,PoC,Unknown
+AREAS,pod,Unknown
+AREAS,productionvnet,Unknown
+AREAS,psap,Unknown
+AREAS,rmappman,Unknown
+AREAS,rpacldpoc,Unknown
+AREAS,sec,Unknown
+AREAS,secbot,Unknown
+AREAS,smsp,Unknown
+AREAS,sn,Unknown
+AREAS,soms,Unknown
+AREAS,sra,Unknown
+AREAS,StoreFeeder,StoreFeeder
+AREAS,system,Unknown
+AREAS,udg,Unknown
+AREAS,unknown,Unknown
+AREAS,v01,Unknown
+AREAS,we,Unknown
+AREAS,wvd,Unknown
+AREAS,wvdi,Unknown
+AREAS,zcaler,Unknown
+AREAS,zpaac,Unknown
+AREAS,zpapse,Unknown
+ENVIRONMENTS,RMG Hosting Core Infrastructure Env,Core
+ENVIRONMENTS,"Click and Drop (SF Lite), StoreFeeder",Unknown
+ENVIRONMENTS,RMG Hosting Pre Production Env,PPD
+ENVIRONMENTS,rmg-coreinfra-azarc-p-sub-01,Unknown
+ENVIRONMENTS,RMG Hosting Production Env,PRD
+ENVIRONMENTS,"RMG Hosting Production Env, RMG Hosting Core Infrastructure Env",Core PRD
+ENVIRONMENTS,Click and Drop (SF Lite),Unknown
+ENVIRONMENTS,"RMG Hosting Core Infrastructure Env, RMG Hosting Pre Production Env",Core PPD
+ENVIRONMENTS,RMG Hosting Non Production Env 2,NPRD
+ENVIRONMENTS,RMG Hosting Non Production Env,NPRD
+ENVIRONMENTS,"RMG Hosting Non Production Env, RMG Hosting Core Infrastructure Env",Core NPRD
+ENVIRONMENTS,O365 OMS,Unknown
+ENVIRONMENTS,RMG VDI,Unknown
+ENVIRONMENTS,rmg-cpl-cn-sub-01,Unknown
+ENVIRONMENTS,rmg-cpl-sec-sub-01,Unknown
+ENVIRONMENTS,Parcelforce Worldwide,Unknown
+ENVIRONMENTS,rmg-zpa-lz-p-sub-01,Unknown
+ENVIRONMENTS,AHDC FDS Development Environment,NPRD
+ENVIRONMENTS,Outdoor Actuals Project,Unknown
+ENVIRONMENTS,Final Mile Optimisation Development environment,NPRD
+ENVIRONMENTS,rmg-cpl-cntest-sub-01,NPRD
+ENVIRONMENTS,StoreFeeder,Unknown
+ENVIRONMENTS,"Outdoor Actuals Project, Traffic Transformation",
+ENVIRONMENTS,rmg-cpl-mg-sub-01,Unknown
+ENVIRONMENTS,Barcode Allocation,Unknown
+ENVIRONMENTS,rmg-cpl-id-sub-01,Unknown
+ENVIRONMENTS,GBI,Unknown
+ENVIRONMENTS,RMGN PL Seed,Unknown
+ENVIRONMENTS,RMG PCS,Unknown
+ENVIRONMENTS,rmg-cpl-mgtest-sub-01,Unknown
+ENVIRONMENTS,Sharepoint Production,PRD
+ENVIRONMENTS,Sharepoint Test,NPRD
+ENVIRONMENTS,Test,NPRD
+ENVIRONMENTS,Microsoft Centre of Excellence Sandbox,Unknown
+ENVIRONMENTS,rmg-test11-run11-p-sub-01,NPRD
+ENVIRONMENTS,rmg-dsp-v01-d-sub-01,Unknown
+ENVIRONMENTS,RMGN PL Connectivity,Unknown
+ENVIRONMENTS,RMNext Envrionment,Unknown
+ENVIRONMENTS,rmg-test12-run12-v-sub-01,Unknown
+ENVIRONMENTS,RMG Hosting Non Production Env 3,NPRD
+ENVIRONMENTS,"RMG Hosting Production Env, RMG Hosting Non Production Env, RMG Hosting Pre Production Env",Unknown
+ENVIRONMENTS,"GBI, Outdoor Actuals Project, Sharepoint Production",Unknown
+ENVIRONMENTS,"Outdoor Actuals Project, Click and Drop (SF Lite), Final Mile Optimisation Development environment, RMG PCS, O365 OMS, DevOps, RMG Hosting Non Production Env, Express Route, Sharepoint Test, RMG VDI, AHDC FDS Development Environment, RMG Hosting Core Infrastructure Env, Barcode Allocation, PDA Platform, Parcelforce Worldwide",Unknown
+ENVIRONMENTS,Proof of Concept Subscription (Non Production Only),Unknown
+ENVIRONMENTS,Click and Drop Classic,Unknown
+ENVIRONMENTS,"RMG Hosting Non Production Env 3, RMG Hosting Production Env, O365 OMS, RMG Hosting Non Production Env 2, RMG Hosting Non Production Env, RMG VDI, RMG Hosting Core Infrastructure Env, RMG Hosting Pre Production Env",NPRD
+ENVIRONMENTS,"Click and Drop (SF Lite), O365 OMS, rmg-cpl-id-sub-01, RMG VDI, rmg-dsp-v01-a-sub-01, RMG Hosting Core Infrastructure Env",Unknown
+ENVIRONMENTS,RMGN PL Management,Unknown
+ENVIRONMENTS,RMGN LZ NPD Internal,Unknown
+ENVIRONMENTS,Traffic Transformation,Unknown
+ENVIRONMENTS,Click And Drop Classic EA,Unknown
+ENVIRONMENTS,StoreFeeder storage,Unknown
+ENVIRONMENTS,Click and Drop (SF Lite) EA,Unknown
+ENVIRONMENTS,(),Unknown
+CAPABILITIES,epsshared,Shared
+CAPABILITIES,epssecapi,SECAPI
+CAPABILITIES,epspapi,Push API
+CAPABILITIES,epsord,OMS
+CAPABILITIES,epscommon,Common
+CAPABILITIES,epstdf,TDF
+CAPABILITIES,epstapi,TAPI
+CAPABILITIES,epspb,Penny Black
+CAPABILITIES,epstm,Task Manager
+CAPABILITIES,epsbmsui,Billing UI
+CAPABILITIES,epsmani,Manifest
+CAPABILITIES,epsbms,Billing
+CAPABILITIES,epsmapi,Mapi
+CAPABILITIES,epstibcobw,Tibcobw
