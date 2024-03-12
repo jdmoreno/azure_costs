@@ -1,0 +1,1323 @@
+subscription_name,resource_group,affix
+AHDC FDS Development Environment,ahdc_automated_resource_group,unknown
+AHDC FDS Development Environment,endava-devfds-agents,unknown
+AHDC FDS Development Environment,endava-devfds-rg,unknown
+AHDC FDS Development Environment,testmachine_group,unknown
+Barcode Allocation,barcode-ad-vnet,Barcode Allocation
+Barcode Allocation,barcode-int-rg,Barcode Allocation
+Barcode Allocation,barcodepackagerepo,Barcode Allocation
+Barcode Allocation,barcode-rg,Barcode Allocation
+Barcode Allocation,barcode-selfhostedagents,Barcode Allocation
+Barcode Allocation,barcode-support,Barcode Allocation
+Barcode Allocation,barcode-test-rg,Barcode Allocation
+Click and Drop (SF Lite),clickanddrop,Click and Drop (SF Lite)
+Click and Drop (SF Lite),containerregistry,Click and Drop (SF Lite)
+Click and Drop (SF Lite),default-networking,Click and Drop (SF Lite)
+Click and Drop (SF Lite),elk,Click and Drop (SF Lite)
+Click and Drop (SF Lite),iaincalvertubbytest,Click and Drop (SF Lite)
+Click and Drop (SF Lite),jmtest,Click and Drop (SF Lite)
+Click and Drop (SF Lite),k8s,Click and Drop (SF Lite)
+Click and Drop (SF Lite),k8s-dev-backups,Click and Drop (SF Lite)
+Click and Drop (SF Lite),k8s-live-backups,Click and Drop (SF Lite)
+Click and Drop (SF Lite),k8s-uat-backups,Click and Drop (SF Lite)
+Click and Drop (SF Lite),magento1,Click and Drop (SF Lite)
+Click and Drop (SF Lite),megan-test-group,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sandbox,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-apimappsmanagedtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-channelshipperwebsiteapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-channelshipperwebsitegateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-cndapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-cndidentityprovidergateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-grafanatm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-integrationstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-k8sappscndtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-k8sappssfctm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-k8sappstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-paymentservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-printservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-rmconsumerapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-rmconsumercollectiongateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-rmconsumerjourney_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-rmobaemergencygateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-rmolppartner_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-rmparcelwebsitegateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-rmsupportportalgatewaytm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-services_csdb-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-trackingdatatm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-hub-ne-hub_vnet-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-hub-we-hub_vnet-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-ne-mssql_audit-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-apimappsbkupsa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-appsapim-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-appsehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-appspgsql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-azureinf_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-cndapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-cnddesktop_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-cndwebsite_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-cndwebsiteapi_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-document_service_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-green_apps_cluster_nodes-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-green_apps_cluster-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-k8sapps_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-k8sappscndtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-k8sappssfctm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-k8sappstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-magentowebsitedevtestmariadb-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-mssql_audit-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-notificationserviceehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-obaservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-opensearchsa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-prometheussa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-redis_cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-redis_dropbox-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-rm_consumer_collection_gateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-rmconsumercollectiongatewayehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-rmtrackingservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-services_mssql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-sflitesupportsite_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-signalr-cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-signalr-print_service-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-sqlauditehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-we-terraform_key_vault-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev1h-we-azureinf_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev1h-we-terraform_key_vault-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sflite,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sflitebackups,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sflitecompanion,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sflitedevstorage-migrated,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sflite-help,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sfliteuatstorage-migrated,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sflitewebsiteapi,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-apimappsmanagedtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-channelshipperwebsiteapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-channelshipperwebsitegateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-cndapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-cndidentityprovidergateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-grafanatm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-integrationstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-k8sappssfctm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-k8sappstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-paymentcallbackgatewaytm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-paymentservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-printservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-rmconsumerapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-rmconsumercollectiongateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-rmconsumerjourney_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-rmobaemergencygateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-rmolppartner_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-rmparcelwebsitegateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-rmsupportportalgatewaytm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-royalmail-apiclickanddroptm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-royalmail-apideveloperclickanddroptm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-services_csdb-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-trackingdatatm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-certificates_storefeeder_com-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-internal_storefeeder_com-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-ne-hub_vnet-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-ne-mssql_audit-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-ne-services_mssql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-ne-vm_setup_sa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-ne-windows_build_agent-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-we-acctests_mssql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-we-azure_monitor-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-we-ddos_protection_plan_dpp-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-we-devs_ftp_vm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-we-green_hub_cluster_nodes-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-we-green_hub_cluster-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-we-hub_vnet-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-we-mssql_audit-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-we-services_mssql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-we-test_reports-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-we-vm_setup_sa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-hub-we-windows_build_agent-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-apimappsbkupsa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-appsehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-appspgsql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-azure_monitor-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-cndapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-document_service_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-green_apps_cluster_nodes-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-green_apps_cluster-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-k8sapps_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-k8sappscndtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-k8sappssfctm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-k8sappstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-mssql_audit-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-notificationserviceehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-oba_service_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-prometheussa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-redis_cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-redis_dropbox-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-redis_elk-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-rm_consumer_collection_gateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-rmconsumercollectiongatewayehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-rmtrackingservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-services_mssql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-signalr-cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-signalr-print_service-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-ne-terraform_key_vault-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-apimappsbkupsa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-appsapim-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-appsehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-appspgsql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-azure_ad_audit-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-azureinf_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-cndapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-cnddesktop_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-document_service_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-green_apps_cluster_nodes-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-green_apps_cluster-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-k8sapps_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-k8sappscndtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-k8sappssfctm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-k8sappstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-mssql_audit-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-notificationserviceehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-oba_service_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-prometheussa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-redis_cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-redis_dropbox-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-rm_consumer_collection_gateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-rmconsumercollectiongatewayehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-rmtrackingservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-services_mssql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-sflitesupportsite_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-signalr-cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-signalr-print_service-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-we-terraform_key_vault-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live1h-ne-azureinf_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live1h-ne-certs_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live1h-ne-terraform_key_vault-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live1h-we-azureinf_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live1h-we-certs_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live1h-we-k8shub_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live1h-we-terraform_key_vault-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live-hub01-g-k8shubtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live-hub01-we-k8shubtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sfmiddlewarediagnostics,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-royal-mail-mobile-api-dev,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-royal-mail-mobile-api-live,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-royal-mail-mobile-api-uat,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-apimappsmanagedtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-channelshipperwebsiteapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-channelshipperwebsitegateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-cndapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-cndidentityprovidergateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-grafanatm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-integrationstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-k8sappssfctm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-k8sappstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-paymentcallbackgatewaytm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-paymentservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-printservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-rmconsumerapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-rmconsumercollectiongateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-rmconsumerjourney_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-rmobaemergencygateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-rmolppartner_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-rmparcelwebsitegateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-rmsupportportalgatewaytm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-services_csdb-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-trackingdatatm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-apimappsbkupsa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-appsapim-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-appsehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-appspgsql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-azure_monitor-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-cndapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-document_service_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-green_apps_cluster_nodes-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-green_apps_cluster-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-k8sapps_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-k8sappscndtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-k8sappssfctm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-k8sappstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-mssql_audit-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-notificationserviceehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-oba_service_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-prometheussa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-redis_cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-redis_dropbox-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-redis_elk-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-rm_consumer_collection_gateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-rmconsumercollectiongatewayehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-rmtrackingservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-services_mssql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-signalr-cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-signalr-print_service-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-ne-terraform_key_vault-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-apimappsbkupsa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-appsehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-appspgsql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-azureinf_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-cndapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-cnddesktop_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-cndwebsite_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-cndwebsiteapi_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-document_service_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-green_apps_cluster_nodes-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-green_apps_cluster-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-k8sapps_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-k8sappscndtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-k8sappssfctm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-k8sappstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-mssql_audit-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-notificationserviceehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-oba_service_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-prometheussa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-redis_cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-redis_dropbox-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-rm_consumer_collection_gateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-rmconsumercollectiongatewayehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-rmtrackingservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-services_mssql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-sflitesupportsite_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-signalr-cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-signalr-print_service-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-we-terraform_key_vault-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-apimappsmanagedtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-channelshipperwebsiteapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-channelshipperwebsitegateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-cndapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-cndwebsiteapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-cndwebsitegateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-grafanatm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-integrationstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-k8sappstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-obaservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-paymentservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-printservice_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-rmconsumerapigateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-rmconsumercollectiongateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-rmconsumerjourney_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-rmobaemergencygateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-rmolppartner_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-rmparcelwebsitegateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-rmsupportportalgatewaytm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-services_csdb-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-sflitedesktopgateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-sfliteidentityprovidergateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-sflitesupportgateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-g-trackingdatatm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-apimappsbkupsa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-appsehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-appspgsql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-azure_monitor-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-green_apps_cluster_nodes-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-green_apps_cluster-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-k8sapps_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-k8sappscndtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-k8sappssfctm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-k8sappstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-mssql_audit-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-notificationserviceehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-prometheussa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-redis_cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-rmconsumercollectiongatewayehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-services_mssql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-signalr-cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-signalr-print_service-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-ne-terraform_key_vault-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-apimappsbkupsa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-appsapim-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-appsehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-appspgsql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-azure_monitor-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-azureinf_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-eslogbkupsa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-green_apps_cluster_nodes-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-green_apps_cluster-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-k8sapps_kv-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-k8sappscndtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-k8sappssfctm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-k8sappstm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-mssql_audit-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-notificationserviceehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-prometheussa-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-redis_cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-rmconsumercollectiongatewayehn-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-services_mssql-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-sflitedesktopgateway_tm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-signalr-cnd-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-signalr-print_service-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat02-we-terraform_key_vault-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-we-incident-requestinfo-20221101-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-we-sflite-desktop-ai-law-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-we-terraform-state-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-woocommerce-devtestsite,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sql-northeurope,Click and Drop (SF Lite)
+Click and Drop (SF Lite),vstsbuildagents,Click and Drop (SF Lite)
+"Click and Drop (SF Lite), O365 OMS, rmg-cpl-id-sub-01, RMG VDI, rmg-dsp-v01-a-sub-01, RMG Hosting Core Infrastructure Env",networkwatcherrg,Click and Drop (SF Lite)
+"Click and Drop (SF Lite), StoreFeeder",default-activitylogalerts,Click and Drop (SF Lite)
+"Click and Drop (SF Lite), StoreFeeder",defaultresourcegroup-weu,Click and Drop (SF Lite)
+"Click and Drop (SF Lite), StoreFeeder",default-sql-westeurope,Click and Drop (SF Lite)
+"Click and Drop (SF Lite), StoreFeeder",default-storage-westeurope,Click and Drop (SF Lite)
+"Click and Drop (SF Lite), StoreFeeder",sf-dev01-we-azure_monitor-rg,Click and Drop (SF Lite)
+"Click and Drop (SF Lite), StoreFeeder",sf-live01-we-azure_monitor-rg,Click and Drop (SF Lite)
+"Click and Drop (SF Lite), StoreFeeder",sf-uat01-we-azure_monitor-rg,Click and Drop (SF Lite)
+Click and Drop Classic,rmresources-migrated,Click and Drop (SF Lite)
+Final Mile Optimisation Development environment,endava-fmo-rg,Final Mile Optimisation
+Final Mile Optimisation Development environment,fmo-external-rg,Final Mile Optimisation
+Final Mile Optimisation Development environment,training-fmo-rg,Final Mile Optimisation
+Final Mile Optimisation Development environment,vsts-build-rg,Final Mile Optimisation
+GBI,cloud-shell-storage-northeurope,GBI
+GBI,databricks-rg-rmgdatabricks-xfh5imdim7w6a,GBI
+GBI,databricks-rg-rmgpdadatabricks-vfevlixbujx5o,GBI
+GBI,gbisharedservices,GBI
+GBI,mc_gbisharedservices_gbidevops_westeurope,GBI
+GBI,rmgbuildreleasemanagement,GBI
+GBI,rmgdatabrickscompute,GBI
+"GBI, Outdoor Actuals Project, Sharepoint Production",securitydata,GBI
+Microsoft Centre of Excellence Sandbox,coe-dev-rg,Microsoft Centre of Excellence
+Microsoft Centre of Excellence Sandbox,rmalexaskilldev,Microsoft Centre of Excellence
+Microsoft Centre of Excellence Sandbox,rmgalexadevelopment-rg,Microsoft Centre of Excellence
+O365 OMS,cloudshell,O365 OMS
+O365 OMS,omsservhub,O365 OMS
+O365 OMS,ondemandoms,O365 OMS
+O365 OMS,rmg-we-atossupport-poc-rg-vm-01,O365 OMS
+O365 OMS,rmg-we-cloudman-poc-rg-app-01,O365 OMS
+O365 OMS,rmg-we-msa-poc-rg-app-01,O365 OMS
+O365 OMS,sentinel(test),O365 OMS
+Outdoor Actuals Project,azoaadmin-rg,Outdoor Actuals
+Outdoor Actuals Project,azoa-default-rg,Outdoor Actuals
+Outdoor Actuals Project,azoadmz-rg,Outdoor Actuals
+Outdoor Actuals Project,pvt-rg,Outdoor Actuals
+Outdoor Actuals Project,qa-rg,Outdoor Actuals
+Outdoor Actuals Project,rm-dev-pda-ne-fatsp,Outdoor Actuals
+Outdoor Actuals Project,testsftpconenctivity,Outdoor Actuals
+"Outdoor Actuals Project, Click and Drop (SF Lite), Final Mile Optimisation Development environment, RMG PCS, O365 OMS, DevOps, RMG Hosting Non Production Env, Express Route, Sharepoint Test, RMG VDI, AHDC FDS Development Environment, RMG Hosting Core Infrastructure Env, Barcode Allocation, PDA Platform, Parcelforce Worldwide",cloud-shell-storage-westeurope,Outdoor Actuals
+"Outdoor Actuals Project, Traffic Transformation",ad-rg,Outdoor Actuals
+"Outdoor Actuals Project, Traffic Transformation",dev-rg,Outdoor Actuals
+"Outdoor Actuals Project, Traffic Transformation",supportservices-rg,Outdoor Actuals
+Parcelforce Worldwide,pfw-prod-ukwest,Parcelforce Worldwide
+Parcelforce Worldwide,pfw-test-ihc,Parcelforce Worldwide
+Parcelforce Worldwide,pfw-test-ukwest,Parcelforce Worldwide
+Proof of Concept Subscription (Non Production Only),default-storage-northeurope,PoC
+Proof of Concept Subscription (Non Production Only),sflite-build-group,PoC
+RMG Hosting Core Infrastructure Env,azurebackuprg_westeurope_1,Core
+RMG Hosting Core Infrastructure Env,rmg_prd_core_hwdc_sentinel_01,Core
+RMG Hosting Core Infrastructure Env,rmg-gold-images-ne,Core
+RMG Hosting Core Infrastructure Env,rmg-gold-images-we,Core
+RMG Hosting Core Infrastructure Env,rmg-ne-apptio-dev-rg-app-01,Core
+RMG Hosting Core Infrastructure Env,rmg-ne-coreinf-all-rg01,Core
+RMG Hosting Core Infrastructure Env,rmg-ne-core-prd-sent01,Core
+RMG Hosting Core Infrastructure Env,rmg-ne-edge-dev-rgnet01,Core
+RMG Hosting Core Infrastructure Env,rmg-ne-epscore-ppd-rg-pdl-01,Core
+RMG Hosting Core Infrastructure Env,rmg-ne-epscore-prd-rg-pdl-01,Core
+RMG Hosting Core Infrastructure Env,rmg-ne-o365-all-rg-net01,Core
+RMG Hosting Core Infrastructure Env,rmg-ne-pdatest-ppd-rg-vm02,Core
+RMG Hosting Core Infrastructure Env,rmg-ne-sec-all-rg-log01,Core
+RMG Hosting Core Infrastructure Env,rmg-ne-sec-npd-rg-log01,Core
+RMG Hosting Core Infrastructure Env,rmg-ne-sec-prd-rg-log01,Core
+RMG Hosting Core Infrastructure Env,rmg-test-vms,Core
+RMG Hosting Core Infrastructure Env,rmg-we-coreinf-all-rg01,Core
+RMG Hosting Core Infrastructure Env,rmg-we-epscore-dev-rg-pdl-01,Core
+RMG Hosting Core Infrastructure Env,rmg-we-epscore-ppd-rg-pdl-01,Core
+RMG Hosting Core Infrastructure Env,rmg-we-epscore-prd-rg-pdl-01,Core
+RMG Hosting Core Infrastructure Env,rmg-we-o365-all-rg-net01,Core
+"RMG Hosting Core Infrastructure Env, RMG Hosting Pre Production Env",rmg-ne-pdacore-ppd-rg-pdl-01,Core
+"RMG Hosting Core Infrastructure Env, RMG Hosting Pre Production Env",rmg-we-pdacore-ppd-rg-pdl-01,Core
+RMG Hosting Non Production Env,pfw-ne-ihc-dev-rg-app-01,pfw
+RMG Hosting Non Production Env,pfw-ne-ihc-dev-rg-mt-01,pfw
+RMG Hosting Non Production Env,pfw-ne-ihc-dev-rg-net01,pfw
+RMG Hosting Non Production Env,pfw-ne-ihc-poc-rg-app-01,pfw
+RMG Hosting Non Production Env,pfw-ne-ihc-poc-rg-mt-01,pfw
+RMG Hosting Non Production Env,pfw-ne-ihc-poc-rg-net01,pfw
+RMG Hosting Non Production Env,pfw-ne-pod-npd-rg-cs-01,pfw
+RMG Hosting Non Production Env,pfw-ne-pod-npd-rg-ops-01,pfw
+RMG Hosting Non Production Env,pfw-ne-pod-npd-rg-ss-01,pfw
+RMG Hosting Non Production Env,pfw-we-ihc-npd-rg-app-01,pfw
+RMG Hosting Non Production Env,pfw-we-ihc-npd-rg-mt-01,pfw
+RMG Hosting Non Production Env,pfw-we-ihc-npd-rg-net01,pfw
+RMG Hosting Non Production Env,pfw-we-ihc-poc-rg-app-01,pfw
+RMG Hosting Non Production Env,pfw-we-ihc-poc-rg-mt-01,pfw
+RMG Hosting Non Production Env,pfw-we-ihc-poc-rg-net01,pfw
+RMG Hosting Non Production Env,pfw-we-pod-dev-rg-cs-01,pfw
+RMG Hosting Non Production Env,pfw-we-pod-dev-rg-ss-01,pfw
+RMG Hosting Non Production Env,psap-poc,psap
+RMG Hosting Non Production Env,rmg-gold-images-ne-npd,gold
+RMG Hosting Non Production Env,rmg-ne-adoagt-npd-rg-app-01,adoagt
+RMG Hosting Non Production Env,rmg-ne-adoagt-npd-rg-net01,adoagt
+RMG Hosting Non Production Env,rmg-ne-als-dev-rg-net01,als
+RMG Hosting Non Production Env,rmg-ne-als-dev-rg-pdl-01,als
+RMG Hosting Non Production Env,rmg-ne-als-npd-rg-net01,als
+RMG Hosting Non Production Env,rmg-ne-als-npd-rg-pdl-01,als
+RMG Hosting Non Production Env,rmg-ne-als-q-rg-net01,als
+RMG Hosting Non Production Env,rmg-ne-azbkp-n-rg-app-01,azbkp
+RMG Hosting Non Production Env,rmg-ne-azf-poc-rg-app-01,azf
+RMG Hosting Non Production Env,rmg-ne-azf-poc-rg-net01,azf
+RMG Hosting Non Production Env,rmg-ne-azinit-poc-rg-app-01,azinit
+RMG Hosting Non Production Env,rmg-ne-bat-dev-rg-app-01,bat
+RMG Hosting Non Production Env,rmg-ne-bat-dev-rg-drv-01,bat
+RMG Hosting Non Production Env,rmg-ne-bat-dev-rg-svc-01,bat
+RMG Hosting Non Production Env,rmg-ne-big-api-ext-test-npd-rg-vm,big
+RMG Hosting Non Production Env,rmg-ne-bigapp-dev-rg-app-01,bigapp
+RMG Hosting Non Production Env,rmg-ne-bigapp-dev-rg-net01,bigapp
+RMG Hosting Non Production Env,rmg-ne-bigapp-sit-rg-app-01,bigapp
+RMG Hosting Non Production Env,rmg-ne-bigapp-sit-rg-net01,bigapp
+RMG Hosting Non Production Env,rmg-ne-bigint-dev-rg-app-01,bigint
+RMG Hosting Non Production Env,rmg-ne-bigint-dev-rg-net01,bigint
+RMG Hosting Non Production Env,rmg-ne-bigint-sit-rg-app-01,bigint
+RMG Hosting Non Production Env,rmg-ne-bigint-sit-rg-net01,bigint
+RMG Hosting Non Production Env,rmg-ne-bigmqa-dev-rg-app-01,bigmqa
+RMG Hosting Non Production Env,rmg-ne-bigmqa-dev-rg-net01,bigmqa
+RMG Hosting Non Production Env,rmg-ne-bigmqa-sit-rg-app-01,bigmqa
+RMG Hosting Non Production Env,rmg-ne-bigmqa-sit-rg-net01,bigmqa
+RMG Hosting Non Production Env,rmg-ne-big-npd-net01,big
+RMG Hosting Non Production Env,rmg-ne-bigutil-dev-rg-app-01,bigutil
+RMG Hosting Non Production Env,rmg-ne-bigutil-dev-rg-net01,bigutil
+RMG Hosting Non Production Env,rmg-ne-bigutil-sit-rg-app-01,bigutil
+RMG Hosting Non Production Env,rmg-ne-bigutil-sit-rg-net01,bigutil
+RMG Hosting Non Production Env,rmg-ne-ccib2c-poc-rg-app-01,ccib2c
+RMG Hosting Non Production Env,rmg-ne-ccidem-poc-rg-app-01,ccidem
+RMG Hosting Non Production Env,rmg-ne-ccidev-poc-rg-vm-01,ccidev
+RMG Hosting Non Production Env,rmg-ne-cci-d-rg-app-01,cci
+RMG Hosting Non Production Env,rmg-ne-cci-d-rg-net01,cci
+RMG Hosting Non Production Env,rmg-ne-cci-d-rg-ops-01,cci
+RMG Hosting Non Production Env,rmg-ne-cci-d-rg-sps-01,cci
+RMG Hosting Non Production Env,rmg-ne-cci-d-rg-ss-01,cci
+RMG Hosting Non Production Env,rmg-ne-cloudmgmt-dev-rg-app-01,cloudmgmt
+RMG Hosting Non Production Env,rmg-ne-cloudmgmt-dev-rg-net01,cloudmgmt
+RMG Hosting Non Production Env,rmg-ne-cpp-dev-rg-app-01,cpp
+RMG Hosting Non Production Env,rmg-ne-cpp-dev-rg-net01,cpp
+RMG Hosting Non Production Env,rmg-ne-cpp-dev-rg-ops-01,cpp
+RMG Hosting Non Production Env,rmg-ne-cpp-dev-rg-sps-01,cpp
+RMG Hosting Non Production Env,rmg-ne-cpp-dev-rg-ss-01,cpp
+RMG Hosting Non Production Env,rmg-ne-cpp-sit-rg-app-01,cpp
+RMG Hosting Non Production Env,rmg-ne-cpp-sit-rg-net01,cpp
+RMG Hosting Non Production Env,rmg-ne-cpp-sit-rg-ops-01,cpp
+RMG Hosting Non Production Env,rmg-ne-cpp-sit-rg-sps-01,cpp
+RMG Hosting Non Production Env,rmg-ne-cpp-sit-rg-ss-01,cpp
+RMG Hosting Non Production Env,rmg-ne-dilodo-poc-rg-app-01,dilodo
+RMG Hosting Non Production Env,rmg-ne-dps-c-rg-app-01,dps
+RMG Hosting Non Production Env,rmg-ne-dps-c-rg-net01,dps
+RMG Hosting Non Production Env,rmg-ne-dps-c-rg-sps-01,dps
+RMG Hosting Non Production Env,rmg-ne-dps-c-rg-ss-01,dps
+RMG Hosting Non Production Env,rmg-ne-dps-man-c-rg-net01,dps
+RMG Hosting Non Production Env,rmg-ne-dps-man-c-rg-vm-01,dps
+RMG Hosting Non Production Env,rmg-ne-drs-c-rg-app-01,drs
+RMG Hosting Non Production Env,rmg-ne-drs-c-rg-net01,drs
+RMG Hosting Non Production Env,rmg-ne-drs-c-rg-sps-01,drs
+RMG Hosting Non Production Env,rmg-ne-drs-c-rg-ss-01,drs
+RMG Hosting Non Production Env,rmg-ne-edm-dev-rg-pdl-01,edm
+RMG Hosting Non Production Env,rmg-ne-edm-npd-rg-mgmt-01,edm
+RMG Hosting Non Production Env,rmg-ne-edm-npd-rg-pdl-01,edm
+RMG Hosting Non Production Env,rmg-ne-eis-dev-rg-app-01,eis
+RMG Hosting Non Production Env,rmg-ne-eis-dev-rg-ops-01,eis
+RMG Hosting Non Production Env,rmg-ne-eis-dev-rg-sps-01,eis
+RMG Hosting Non Production Env,rmg-ne-eis-dev-rg-ss-01,eis
+RMG Hosting Non Production Env,rmg-ne-eis-sit-rg-app-01,eis
+RMG Hosting Non Production Env,rmg-ne-eis-sit-rg-ops-01,eis
+RMG Hosting Non Production Env,rmg-ne-eis-sit-rg-sps-01,eis
+RMG Hosting Non Production Env,rmg-ne-eis-sit-rg-ss-01,eis
+RMG Hosting Non Production Env,rmg-ne-eis-st-rg-app-01,eis
+RMG Hosting Non Production Env,rmg-ne-eis-st-rg-ops-01,eis
+RMG Hosting Non Production Env,rmg-ne-eis-st-rg-sps-01,eis
+RMG Hosting Non Production Env,rmg-ne-eis-st-rg-ss-01,eis
+RMG Hosting Non Production Env,rmg-ne-etpc-npd-rg-app-01,etpc
+RMG Hosting Non Production Env,rmg-ne-etpc-npd-rg-net01,etpc
+RMG Hosting Non Production Env,rmg-ne-etpc-npd-rg-vm-01,etpc
+RMG Hosting Non Production Env,rmg-ne-fep-npd-rg-pgdb01,fep
+RMG Hosting Non Production Env,rmg-ne-fep-npd-rg-svr01,fep
+RMG Hosting Non Production Env,rmg-ne-fep-npd-rg-vm01,fep
+RMG Hosting Non Production Env,rmg-ne-hue-poc-rg-01,hue
+RMG Hosting Non Production Env,rmg-ne-hue-poc-rg-cs-01,hue
+RMG Hosting Non Production Env,rmg-ne-hue-poc-rg-net01,hue
+RMG Hosting Non Production Env,rmg-ne-hue-poc-rg-ops-01,hue
+RMG Hosting Non Production Env,rmg-ne-hue-poc-rg-sps-01,hue
+RMG Hosting Non Production Env,rmg-ne-hue-poc-rg-ss-01,hue
+RMG Hosting Non Production Env,rmg-ne-infradev-npd-rg-net01,infradev
+RMG Hosting Non Production Env,rmg-ne-infradev-npd-rg-vm01,infradev
+RMG Hosting Non Production Env,rmg-ne-opg-dev-rg-net01,opg
+RMG Hosting Non Production Env,rmg-ne-opg-dev-rg-pdl-01,opg
+RMG Hosting Non Production Env,rmg-ne-pdacomms-dev-rg-pdl-01,pdacomms
+RMG Hosting Non Production Env,rmg-ne-pdacomms-npd-rg-pdl-01,pdacomms
+RMG Hosting Non Production Env,rmg-ne-pdacspsms-dev-rg-pdl-01,pdacspsms
+RMG Hosting Non Production Env,rmg-ne-pdacspsms-npd-rg-pdl-01,pdacspsms
+RMG Hosting Non Production Env,rmg-ne-pda-dev-rg-net01,pda
+RMG Hosting Non Production Env,rmg-ne-pda-dev-rg-vm-01,pda
+RMG Hosting Non Production Env,rmg-ne-pdahandler-dev-rg-net01,pdahandler
+RMG Hosting Non Production Env,rmg-ne-pdahandler-dev-rg-pdl-01,pdahandler
+RMG Hosting Non Production Env,rmg-ne-pdahandler-npd-rg-net01,pdahandler
+RMG Hosting Non Production Env,rmg-ne-pdahandler-npd-rg-pdl-01,pdahandler
+RMG Hosting Non Production Env,rmg-ne-pdahandler-q-rg-net01,pdahandler
+RMG Hosting Non Production Env,rmg-ne-pdahandler-q-rg-pdl-01,pdahandler
+RMG Hosting Non Production Env,rmg-ne-pdaidm-dev-rg-pdl-01,pdaidm
+RMG Hosting Non Production Env,rmg-ne-pdainf-npd-rg-pdl-01,pdainf
+RMG Hosting Non Production Env,rmg-ne-pdaiot-dev-rg-pdl-01,pdaiot
+RMG Hosting Non Production Env,rmg-ne-pdaiot-npd-rg-pdl-01,pdaiot
+RMG Hosting Non Production Env,rmg-ne-pda-npd-rg-svr02,pda
+RMG Hosting Non Production Env,rmg-ne-pdaportal-dev-rg-app-01,pdaportal
+RMG Hosting Non Production Env,rmg-ne-pdaportal-dev-rg-net01,pdaportal
+RMG Hosting Non Production Env,rmg-ne-pdaportal-npd-rg-app-01,pdaportal
+RMG Hosting Non Production Env,rmg-ne-pdaportal-npd-rg-net01,pdaportal
+RMG Hosting Non Production Env,rmg-ne-pdaportal-q-rg-app-01,pdaportal
+RMG Hosting Non Production Env,rmg-ne-pdaportal-q-rg-net01,pdaportal
+RMG Hosting Non Production Env,rmg-ne-pdarefdata-dev-rg-pdl-01,pdarefdata
+RMG Hosting Non Production Env,rmg-ne-pdarefdata-npd-rg-pdl-01,pdarefdata
+RMG Hosting Non Production Env,rmg-ne-pdatma-dev-rg-pdl-01,pdatma
+RMG Hosting Non Production Env,rmg-ne-pdatma-npd-rg-pdl-01,pdatma
+RMG Hosting Non Production Env,rmg-ne-pgfs-poc-rg-app-01,pgfs
+RMG Hosting Non Production Env,rmg-ne-pgfs-poc-rg-net01,pgfs
+RMG Hosting Non Production Env,rmg-ne-soms-dev-rg-app-01,soms
+RMG Hosting Non Production Env,rmg-ne-soms-dev-rg-net01,soms
+RMG Hosting Non Production Env,rmg-ne-soms-iaas-dev-rg-app-01,soms
+RMG Hosting Non Production Env,rmg-ne-sra-dev-rg-cs-01,sra
+RMG Hosting Non Production Env,rmg-ne-sra-dev-rg-net01,sra
+RMG Hosting Non Production Env,rmg-ne-sra-dev-rg-ops-01,sra
+RMG Hosting Non Production Env,rmg-ne-sra-dev-rg-sps-01,sra
+RMG Hosting Non Production Env,rmg-ne-sra-dev-rg-ss-01,sra
+RMG Hosting Non Production Env,rmg-ne-tda,unknown
+RMG Hosting Non Production Env,rmg-uks-cmg-poc-rg-app-01,cmg
+RMG Hosting Non Production Env,rmg-we-ahdc-intune-poc-poc-rg-app-01,ahdc
+RMG Hosting Non Production Env,rmg-we-alexa-npd-rgkv01,alexa
+RMG Hosting Non Production Env,rmg-we-alexa-npd-rgredis01,alexa
+RMG Hosting Non Production Env,rmg-we-alexa-npd-rgsrvless01,alexa
+RMG Hosting Non Production Env,rmg-we-als-npd-rg-net01,als
+RMG Hosting Non Production Env,rmg-we-als-npd-rg-pdl-01,als
+RMG Hosting Non Production Env,rmg-we-bat-npd-rg-app-01,bat
+RMG Hosting Non Production Env,rmg-we-bat-npd-rg-drv-01,bat
+RMG Hosting Non Production Env,rmg-we-bat-npd-rg-svc-01,bat
+RMG Hosting Non Production Env,rmg-we-bigpapi-dev-rg-net01,bigpapi
+RMG Hosting Non Production Env,rmg-we-bigpapi-dev-rg-pdl-01,bigpapi
+RMG Hosting Non Production Env,rmg-we-bigpapisit-dev-rg-net01,bigpapisit
+RMG Hosting Non Production Env,rmg-we-bigpapisit-dev-rg-pdl-01,bigpapisit
+RMG Hosting Non Production Env,rmg-we-big-poc-rg-cs-01,big
+RMG Hosting Non Production Env,rmg-we-big-poc-rg-net01,big
+RMG Hosting Non Production Env,rmg-we-big-poc-rg-ops-01,big
+RMG Hosting Non Production Env,rmg-we-cdf-dev-rg-app-01,cdf
+RMG Hosting Non Production Env,rmg-we-cdf-dev-rg-bld-01,cdf
+RMG Hosting Non Production Env,rmg-we-cdf-dev-rg-net01,cdf
+RMG Hosting Non Production Env,rmg-we-dcs-npd-rg-app-01,dcs
+RMG Hosting Non Production Env,rmg-we-dcs-npd-rg-net01,dcs
+RMG Hosting Non Production Env,rmg-we-dilodo-npd-rg-app-01,dilodo
+RMG Hosting Non Production Env,rmg-we-dilodo-npd-rg-net01,dilodo
+RMG Hosting Non Production Env,rmg-we-dilodo-npd-rg-vm-01,dilodo
+RMG Hosting Non Production Env,rmg-we-ebiz-car-poc-rg-app-01,ebiz
+RMG Hosting Non Production Env,rmg-we-epscommon-a-rg-app-01,epscommon
+RMG Hosting Non Production Env,rmg-we-epscommon-a-rg-net01,epscommon
+RMG Hosting Non Production Env,rmg-we-epscommon-c-rg-app-01,epscommon
+RMG Hosting Non Production Env,rmg-we-epscommon-c-rg-net01,epscommon
+RMG Hosting Non Production Env,rmg-we-epscommon-s-rg-app-01,epscommon
+RMG Hosting Non Production Env,rmg-we-epscommon-s-rg-net01,epscommon
+RMG Hosting Non Production Env,rmg-we-epsmani-a-rg-app-01,epsmani
+RMG Hosting Non Production Env,rmg-we-epsmani-a-rg-net01,epsmani
+RMG Hosting Non Production Env,rmg-we-epsmani-c-rg-app-01,epsmani
+RMG Hosting Non Production Env,rmg-we-epsmani-c-rg-net01,epsmani
+RMG Hosting Non Production Env,rmg-we-epsmani-s-rg-app-01,epsmani
+RMG Hosting Non Production Env,rmg-we-epsmani-s-rg-net01,epsmani
+RMG Hosting Non Production Env,rmg-we-epsmapi-a-rg-app-01,epsmapi
+RMG Hosting Non Production Env,rmg-we-epsmapi-a-rg-net01,epsmapi
+RMG Hosting Non Production Env,rmg-we-epsmapi-c-rg-app-01,epsmapi
+RMG Hosting Non Production Env,rmg-we-epsmapi-c-rg-net01,epsmapi
+RMG Hosting Non Production Env,rmg-we-epspapi-npd-rg-app-01,epspapi
+RMG Hosting Non Production Env,rmg-we-epspapi-sit-rg-app-01,epspapi
+RMG Hosting Non Production Env,rmg-we-epspapi-sit-rg-net01,epspapi
+RMG Hosting Non Production Env,rmg-we-epspb-npd-rg-app-01,epspb
+RMG Hosting Non Production Env,rmg-we-epspb-npd-rg-app-01-westeuropewebspace-xenon,epspb
+RMG Hosting Non Production Env,rmg-we-epspb-npd-rg-net01,epspb
+RMG Hosting Non Production Env,rmg-we-epssecapi-npd-rg-app-01,epssecapi
+RMG Hosting Non Production Env,rmg-we-epsshared-a-rg-app-01,epsshared
+RMG Hosting Non Production Env,rmg-we-epsshared-a-rg-net01,epsshared
+RMG Hosting Non Production Env,rmg-we-epsshared-npd-rg-app-01,epsshared
+RMG Hosting Non Production Env,rmg-we-epsshared-npd-rg-net01,epsshared
+RMG Hosting Non Production Env,rmg-we-epsshared-s-rg-app-01,epsshared
+RMG Hosting Non Production Env,rmg-we-epsshared-s-rg-net01,epsshared
+RMG Hosting Non Production Env,rmg-we-epstapi-a-rg-app-01,epstapi
+RMG Hosting Non Production Env,rmg-we-epstapi-a-rg-net01,epstapi
+RMG Hosting Non Production Env,rmg-we-epstapi-d-rg-app-01,epstapi
+RMG Hosting Non Production Env,rmg-we-epstapi-d-rg-net01,epstapi
+RMG Hosting Non Production Env,rmg-we-epstapi-s-rg-app-01,epstapi
+RMG Hosting Non Production Env,rmg-we-epstapi-s-rg-net01,epstapi
+RMG Hosting Non Production Env,rmg-we-epstdf-a-rg-app-01,epstdf
+RMG Hosting Non Production Env,rmg-we-epstdf-d-rg-app-01,epstdf
+RMG Hosting Non Production Env,rmg-we-epstdf-s-rg-app-01,epstdf
+RMG Hosting Non Production Env,rmg-we-epstm-npd-rg-app-01,epstm
+RMG Hosting Non Production Env,rmg-we-epstm-npd-rg-net01,epstm
+RMG Hosting Non Production Env,rmg-we-escore-c-rg-app-01,unknown
+RMG Hosting Non Production Env,rmg-we-escore-c-rg-net01,unknown
+RMG Hosting Non Production Env,rmg-we-etpd-poc-rg-app-01,etpd
+RMG Hosting Non Production Env,rmg-we-etpd-poc-rg-net01,etpd
+RMG Hosting Non Production Env,rmg-we-etpd-poc-rg-ops-01,etpd
+RMG Hosting Non Production Env,rmg-we-etpd-poc-rg-vm-01,etpd
+RMG Hosting Non Production Env,rmg-we-fep-npd-rg-svr01,fep
+RMG Hosting Non Production Env,rmg-we-hue-dev-rg-cs-01,hue
+RMG Hosting Non Production Env,rmg-we-hue-dev-rg-net01,hue
+RMG Hosting Non Production Env,rmg-we-hue-dev-rg-ops-01,hue
+RMG Hosting Non Production Env,rmg-we-hue-dev-rg-sps-01,hue
+RMG Hosting Non Production Env,rmg-we-hue-dev-rg-ss-01,hue
+RMG Hosting Non Production Env,rmg-we-hue-npd-rg-cs-01,hue
+RMG Hosting Non Production Env,rmg-we-hue-npd-rg-net01,hue
+RMG Hosting Non Production Env,rmg-we-hue-npd-rg-ops-01,hue
+RMG Hosting Non Production Env,rmg-we-hue-npd-rg-sps-01,hue
+RMG Hosting Non Production Env,rmg-we-hue-npd-rg-ss-01,hue
+RMG Hosting Non Production Env,rmg-we-hue-q-rg-net01,hue
+RMG Hosting Non Production Env,rmg-we-opg-npd-rg-net01,opg
+RMG Hosting Non Production Env,rmg-we-opg-npd-rg-pdl-01,opg
+RMG Hosting Non Production Env,rmg-we-opg-q-rg-net01,opg
+RMG Hosting Non Production Env,rmg-we-opg-q-rg-pdl-01,opg
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-auto,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-baurm-dev,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-baurm-qa,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-baurm-tr,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-build,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-colgeo-qa,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-colgeo-sit,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-colrm-dev,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-colrm-qa,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-colrm-sit,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-degeo-qa,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-degeo-sit,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-derm-dev,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-derm-qa,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-derm-sit,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-dm-dev,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-geo-tr,oro
+RMG Hosting Non Production Env,rmg-we-oro-npd-rg-sharedapp,oro
+RMG Hosting Non Production Env,rmg-we-pdacomms-npd-rg-pdl-01,pdacomms
+RMG Hosting Non Production Env,rmg-we-pda-dev-rg-vm-01,pda
+RMG Hosting Non Production Env,rmg-we-pdamds-d-rg-app-01,pdamds
+RMG Hosting Non Production Env,rmg-we-pdamds-d-rg-net01,pdamds
+RMG Hosting Non Production Env,rmg-we-pdamds-q-rg-app-01,pdamds
+RMG Hosting Non Production Env,rmg-we-pdamds-q-rg-net01,pdamds
+RMG Hosting Non Production Env,rmg-we-pdamds-s-rg-app-01,pdamds
+RMG Hosting Non Production Env,rmg-we-pdamds-s-rg-net01,pdamds
+RMG Hosting Non Production Env,rmg-we-pda-npd-rg-mgmt-01,pda
+RMG Hosting Non Production Env,rmg-we-pda-npd-rg-net-mgmt,pda
+RMG Hosting Non Production Env,rmg-we-pdarefdata-dev-rg-pdl-01,pdarefdata
+RMG Hosting Non Production Env,rmg-we-pdarefdata-npd-rg-pdl-01,pdarefdata
+RMG Hosting Non Production Env,rmg-we-peg-npd-rg-build,peg
+RMG Hosting Non Production Env,rmg-we-peg-npd-rg-dev,peg
+RMG Hosting Non Production Env,rmg-we-peg-npd-rg-sit,peg
+RMG Hosting Non Production Env,rmg-we-peg-npd-rg-test,peg
+RMG Hosting Non Production Env,rmg-we-pgfs-poc-rg-app-01,pgfs
+RMG Hosting Non Production Env,rmg-we-pgfs-poc-rg-net01,pgfs
+RMG Hosting Non Production Env,rmg-we-pgfs-poc-rg-ops-01,pgfs
+RMG Hosting Non Production Env,rmg-we-rmappman-dev-rg-app-01,rmappman
+RMG Hosting Non Production Env,rmg-we-rmappman-npd-rg-app-01,rmappman
+RMG Hosting Non Production Env,rmg-we-secbot-poc-rg-app-01,secbot
+RMG Hosting Non Production Env,rmg-we-soms-a-rg-app-01,soms
+RMG Hosting Non Production Env,rmg-we-soms-a-rg-net01,soms
+RMG Hosting Non Production Env,rmg-we-soms-iaas-a-rg-app-01,soms
+RMG Hosting Non Production Env,rmg-we-soms-poc-rg-net01,soms
+RMG Hosting Non Production Env,rmg-we-sra-npd-rg-cs-01,sra
+RMG Hosting Non Production Env,rmg-we-sra-npd-rg-net01,sra
+RMG Hosting Non Production Env,rmg-we-sra-npd-rg-ops-01,sra
+RMG Hosting Non Production Env,rmg-we-sra-npd-rg-sps-01,sra
+RMG Hosting Non Production Env,rmg-we-sra-npd-rg-ss-01,sra
+RMG Hosting Non Production Env,rmg-we-sra-q-rg-cs-01,sra
+RMG Hosting Non Production Env,rmg-we-sra-q-rg-net01,sra
+RMG Hosting Non Production Env,rmg-we-sra-q-rg-ops-01,sra
+RMG Hosting Non Production Env,rmg-we-sra-q-rg-sps-01,sra
+RMG Hosting Non Production Env,rmg-we-sra-q-rg-ss-01,sra
+RMG Hosting Non Production Env,rmg-we-udg-dev-rg-cs-01,udg
+RMG Hosting Non Production Env,rmg-we-udg-dev-rg-net01,udg
+RMG Hosting Non Production Env,rmg-we-udg-dev-rg-ops-01,udg
+RMG Hosting Non Production Env,rmg-we-udg-dev-rg-sps-01,udg
+RMG Hosting Non Production Env,rmg-we-udg-dev-rg-ss-01,udg
+RMG Hosting Non Production Env,rmg-we-udg-npd-rg-cs-01,udg
+RMG Hosting Non Production Env,rmg-we-udg-npd-rg-net01,udg
+RMG Hosting Non Production Env,rmg-we-udg-npd-rg-ops-01,udg
+RMG Hosting Non Production Env,rmg-we-udg-npd-rg-sps-01,udg
+RMG Hosting Non Production Env,rmg-we-udg-npd-rg-ss-01,udg
+RMG Hosting Non Production Env,rmg-we-udg-q-rg-net01,udg
+RMG Hosting Non Production Env 2,mc_rmg-ne-azinit2-poc-rg-app-01_rmg-ne-azinit2-npd-aks-01_northeurope,azinit2
+RMG Hosting Non Production Env 2,mc_rmg-ne-azinit2-poc-rg-app-01_rmg-ne-azinit2-poc-aks-app-01_northeurope,azinit2
+RMG Hosting Non Production Env 2,rmg-ne-azinit2-poc-rg-app-01,azinit2
+RMG Hosting Non Production Env 2,rmg-ne-azinit2-poc-rg-net01,azinit2
+RMG Hosting Non Production Env 2,rmg-ne-azinit2-poc-rg-ops-01,azinit2
+RMG Hosting Non Production Env 2,rmg-ne-aznettest-poc-rg-vm-01,aznettest
+RMG Hosting Non Production Env 2,rmg-ne-cci-a-rg-app-01,cci
+RMG Hosting Non Production Env 2,rmg-ne-cci-a-rg-net01,cci
+RMG Hosting Non Production Env 2,rmg-ne-cci-a-rg-ops-01,cci
+RMG Hosting Non Production Env 2,rmg-ne-cci-a-rg-sps-01,cci
+RMG Hosting Non Production Env 2,rmg-ne-cci-a-rg-ss-01,cci
+RMG Hosting Non Production Env 2,rmg-ne-dps-a-rg-app-01,dps
+RMG Hosting Non Production Env 2,rmg-ne-dps-a-rg-net01,dps
+RMG Hosting Non Production Env 2,rmg-ne-dps-a-rg-sps-01,dps
+RMG Hosting Non Production Env 2,rmg-ne-dps-a-rg-ss-01,dps
+RMG Hosting Non Production Env 2,rmg-ne-dps-man-a-rg-net01,dps
+RMG Hosting Non Production Env 2,rmg-ne-dps-man-a-rg-vm-01,dps
+RMG Hosting Non Production Env 2,rmg-ne-drs-a-rg-app-01,drs
+RMG Hosting Non Production Env 2,rmg-ne-drs-a-rg-net01,drs
+RMG Hosting Non Production Env 2,rmg-ne-drs-a-rg-sps-01,drs
+RMG Hosting Non Production Env 2,rmg-ne-drs-a-rg-ss-01,drs
+RMG Hosting Non Production Env 2,rmg-ne-dst-d-rg-aks-01,dst
+RMG Hosting Non Production Env 2,rmg-ne-dst-d-rg-app-01,dst
+RMG Hosting Non Production Env 2,rmg-ne-dst-d-rg-net01,dst
+RMG Hosting Non Production Env 2,rmg-ne-dst-d-rg-ops-01,dst
+RMG Hosting Non Production Env 2,rmg-ne-dst-d-rg-sps-01,dst
+RMG Hosting Non Production Env 2,rmg-ne-dst-d-rg-ss-01,dst
+RMG Hosting Non Production Env 2,rmg-ne-dst-poc-rg-app-01,dst
+RMG Hosting Non Production Env 2,rmg-ne-dst-poc-rg-net01,dst
+RMG Hosting Non Production Env 2,rmg-ne-dst-poc-rg-ops-01,dst
+RMG Hosting Non Production Env 2,rmg-ne-dst-poc-rg-sps-01,dst
+RMG Hosting Non Production Env 2,rmg-ne-dst-poc-rg-ss-01,dst
+RMG Hosting Non Production Env 2,rmg-ne-elecrep-a-rg-app-01,elecrep
+RMG Hosting Non Production Env 2,rmg-ne-elecrep-d-rg-app-01,elecrep
+RMG Hosting Non Production Env 2,rmg-ne-elecrep-s-rg-app-01,elecrep
+RMG Hosting Non Production Env 2,rmg-ne-pdaff-d-rg-app-01,pdaff
+RMG Hosting Non Production Env 2,rmg-ne-rpacldpoc-poc-rg-vm-01,rpacldpoc
+RMG Hosting Non Production Env 2,rmg-we-dst-c-rg-app-01,dst
+RMG Hosting Non Production Env 2,rmg-we-dst-c-rg-net01,dst
+RMG Hosting Non Production Env 2,rmg-we-dst-c-rg-ops-01,dst
+RMG Hosting Non Production Env 2,rmg-we-dst-c-rg-sps-01,dst
+RMG Hosting Non Production Env 2,rmg-we-dst-c-rg-ss-01,dst
+RMG Hosting Non Production Env 2,rmg-we-epsbms-a-rg-app-01,epsbms
+RMG Hosting Non Production Env 2,rmg-we-epsbms-a-rg-net01,epsbms
+RMG Hosting Non Production Env 2,rmg-we-epsbms-c-rg-app-01,epsbms
+RMG Hosting Non Production Env 2,rmg-we-epsbms-c-rg-net01,epsbms
+RMG Hosting Non Production Env 2,rmg-we-epsbms-s-rg-app-01,epsbms
+RMG Hosting Non Production Env 2,rmg-we-epsbms-s-rg-net01,epsbms
+RMG Hosting Non Production Env 2,rmg-we-epsbmsui-a-rg-app-01,epsbmsui
+RMG Hosting Non Production Env 2,rmg-we-epsbmsui-a-rg-app-01-westeuropewebspace-xenon,epsbmsui
+RMG Hosting Non Production Env 2,rmg-we-epsbmsui-a-rg-net01,epsbmsui
+RMG Hosting Non Production Env 2,rmg-we-epsbmsui-c-rg-app-01,epsbmsui
+RMG Hosting Non Production Env 2,rmg-we-epsbmsui-c-rg-net01,epsbmsui
+RMG Hosting Non Production Env 2,rmg-we-epsbmsui-s-rg-app-01,epsbmsui
+RMG Hosting Non Production Env 2,rmg-we-epsbmsui-s-rg-net01,epsbmsui
+RMG Hosting Non Production Env 2,rmg-we-epsord-a-rg-app-01,epsord
+RMG Hosting Non Production Env 2,rmg-we-epsord-a-rg-net01,epsord
+RMG Hosting Non Production Env 2,rmg-we-epsord-c-rg-app-01,epsord
+RMG Hosting Non Production Env 2,rmg-we-epsord-c-rg-net01,epsord
+RMG Hosting Non Production Env 2,rmg-we-epsord-s-rg-app-01,epsord
+RMG Hosting Non Production Env 2,rmg-we-epsord-s-rg-net01,epsord
+RMG Hosting Non Production Env 2,rmg-we-epstibcobw-poc-rg-net01,epstibcobw
+RMG Hosting Non Production Env 2,rmg-we-intutil-a-rg-app-01,intutil
+RMG Hosting Non Production Env 2,rmg-we-intutil-a-rg-net01,intutil
+RMG Hosting Non Production Env 2,rmg-we-intutil-c-rg-app-01,intutil
+RMG Hosting Non Production Env 2,rmg-we-intutil-c-rg-net01,intutil
+RMG Hosting Non Production Env 2,rmg-we-smsp-a-rg-app-01,smsp
+RMG Hosting Non Production Env 2,rmg-we-smsp-a-rg-net01,smsp
+RMG Hosting Non Production Env 2,rmg-we-smsp-c-rg-app-01,smsp
+RMG Hosting Non Production Env 2,rmg-we-smsp-c-rg-net01,smsp
+RMG Hosting Non Production Env 3,rmg-we-evhpoc-poc-rg-app-01,evhpoc
+"RMG Hosting Non Production Env 3, RMG Hosting Production Env, O365 OMS, RMG Hosting Non Production Env 2, RMG Hosting Non Production Env, RMG VDI, RMG Hosting Core Infrastructure Env, RMG Hosting Pre Production Env",rmg-ne-sn-all-rg-mon01,sn
+"RMG Hosting Non Production Env, RMG Hosting Core Infrastructure Env",rmg-ne-pdacore-dev-rg-pdl-01,pdacore
+"RMG Hosting Non Production Env, RMG Hosting Core Infrastructure Env",rmg-ne-pdacore-npd-rg-pdl-01,pdacore
+"RMG Hosting Non Production Env, RMG Hosting Core Infrastructure Env",rmg-we-pdacore-dev-rg-pdl-01,pdacore
+"RMG Hosting Non Production Env, RMG Hosting Core Infrastructure Env",rmg-we-pdacore-npd-rg-pdl-01,pdacore
+RMG Hosting Pre Production Env,pfw-ne-ihc-ppd-rg-app-01,ihc
+RMG Hosting Pre Production Env,pfw-ne-ihc-ppd-rg-mt-01,ihc
+RMG Hosting Pre Production Env,pfw-ne-ihc-ppd-rg-net01,ihc
+RMG Hosting Pre Production Env,pfw-ne-pod-ppd-rg-cs-01,pod
+RMG Hosting Pre Production Env,pfw-ne-pod-ppd-rg-ss-01,pod
+RMG Hosting Pre Production Env,pfw-we-ihc-ppd-rg-app-01,ihc
+RMG Hosting Pre Production Env,pfw-we-ihc-ppd-rg-mt-01,ihc
+RMG Hosting Pre Production Env,pfw-we-ihc-ppd-rg-net01,ihc
+RMG Hosting Pre Production Env,pfw-we-pod-ppd-rg-cs-01,pod
+RMG Hosting Pre Production Env,pfw-we-pod-ppd-rg-ss-01,pod
+RMG Hosting Pre Production Env,rmg-ne-adoagt-ppd-rg-app-01,adoagt
+RMG Hosting Pre Production Env,rmg-ne-adoagt-ppd-rg-net01,adoagt
+RMG Hosting Pre Production Env,rmg-ne-als-ppd-rg-net01,als
+RMG Hosting Pre Production Env,rmg-ne-als-ppd-rg-pdl-01,als
+RMG Hosting Pre Production Env,rmg-ne-azbkp-v-rg-app-01,azbkp
+RMG Hosting Pre Production Env,rmg-ne-bat-ppd-rg-svc-01,bat
+RMG Hosting Pre Production Env,rmg-ne-bigapp-ppd-rg-app-01,bigapp
+RMG Hosting Pre Production Env,rmg-ne-bigapp-ppd-rg-net01,bigapp
+RMG Hosting Pre Production Env,rmg-ne-bigint-ppd-rg-app-01,bigint
+RMG Hosting Pre Production Env,rmg-ne-bigint-ppd-rg-net01,bigint
+RMG Hosting Pre Production Env,rmg-ne-bigmqa-ppd-rg-app-01,bigmqa
+RMG Hosting Pre Production Env,rmg-ne-bigmqa-ppd-rg-net01,bigmqa
+RMG Hosting Pre Production Env,rmg-ne-bigpapi-ppd-rg-net01,bigpapi
+RMG Hosting Pre Production Env,rmg-ne-bigpapi-ppd-rg-pdl-01,bigpapi
+RMG Hosting Pre Production Env,rmg-ne-bigutil-ppd-rg-app-01,bigutil
+RMG Hosting Pre Production Env,rmg-ne-bigutil-ppd-rg-net01,bigutil
+RMG Hosting Pre Production Env,rmg-ne-cpp-ppd-rg-app-01,cpp
+RMG Hosting Pre Production Env,rmg-ne-cpp-ppd-rg-net01,cpp
+RMG Hosting Pre Production Env,rmg-ne-cpp-ppd-rg-ops-01,cpp
+RMG Hosting Pre Production Env,rmg-ne-cpp-ppd-rg-sps-01,cpp
+RMG Hosting Pre Production Env,rmg-ne-cpp-ppd-rg-ss-01,cpp
+RMG Hosting Pre Production Env,rmg-ne-dilodo-ppd-rg-net01,dilodo
+RMG Hosting Pre Production Env,rmg-ne-dps-man-v-rg-net01,dps
+RMG Hosting Pre Production Env,rmg-ne-dps-man-v-rg-vm-01,dps
+RMG Hosting Pre Production Env,rmg-ne-dps-v-rg-app-01,dps
+RMG Hosting Pre Production Env,rmg-ne-dps-v-rg-net01,dps
+RMG Hosting Pre Production Env,rmg-ne-dps-v-rg-sps-01,dps
+RMG Hosting Pre Production Env,rmg-ne-dps-v-rg-ss-01,dps
+RMG Hosting Pre Production Env,rmg-ne-drs-v-rg-app-01,drs
+RMG Hosting Pre Production Env,rmg-ne-drs-v-rg-net01,drs
+RMG Hosting Pre Production Env,rmg-ne-drs-v-rg-sps-01,drs
+RMG Hosting Pre Production Env,rmg-ne-drs-v-rg-ss-01,drs
+RMG Hosting Pre Production Env,rmg-ne-edm-ppd-rg-mgmt-01,edm
+RMG Hosting Pre Production Env,rmg-ne-edm-ppd-rg-pdl-01,edm
+RMG Hosting Pre Production Env,rmg-ne-eis-ppd-rg-app-01,eis
+RMG Hosting Pre Production Env,rmg-ne-eis-ppd-rg-ops-01,eis
+RMG Hosting Pre Production Env,rmg-ne-eis-ppd-rg-sps-01,eis
+RMG Hosting Pre Production Env,rmg-ne-eis-ppd-rg-ss-01,eis
+RMG Hosting Pre Production Env,rmg-ne-elecrep-v-rg-app-01,elecrep
+RMG Hosting Pre Production Env,rmg-ne-epsbmsui-v-rg-app-01,epsbmsui
+RMG Hosting Pre Production Env,rmg-ne-epsbmsui-v-rg-net01,epsbmsui
+RMG Hosting Pre Production Env,rmg-ne-epsbms-v-rg-app-01,epsbms
+RMG Hosting Pre Production Env,rmg-ne-epsbms-v-rg-net01,epsbms
+RMG Hosting Pre Production Env,rmg-ne-epscommon-v-rg-app-01,epscommon
+RMG Hosting Pre Production Env,rmg-ne-epscommon-v-rg-net01,epscommon
+RMG Hosting Pre Production Env,rmg-ne-epsmani-v-rg-app-01,epsmani
+RMG Hosting Pre Production Env,rmg-ne-epsmani-v-rg-net01,epsmani
+RMG Hosting Pre Production Env,rmg-ne-epsord-v-rg-app-01,epsord
+RMG Hosting Pre Production Env,rmg-ne-epsord-v-rg-net01,epsord
+RMG Hosting Pre Production Env,rmg-ne-epspapi-ppd-rg-app-01,epspapi
+RMG Hosting Pre Production Env,rmg-ne-epspb-ppd-rg-app-01,epspb
+RMG Hosting Pre Production Env,rmg-ne-epssecapi-ppd-rg-app-01,epssecapi
+RMG Hosting Pre Production Env,rmg-ne-epsshared-ppd-rg-app-01,epsshared
+RMG Hosting Pre Production Env,rmg-ne-epsshared-ppd-rg-net01,epsshared
+RMG Hosting Pre Production Env,rmg-ne-epstapi-v-rg-app-01,epstapi
+RMG Hosting Pre Production Env,rmg-ne-epstapi-v-rg-net01,epstapi
+RMG Hosting Pre Production Env,rmg-ne-epstdf-v-rg-app-01,epstdf
+RMG Hosting Pre Production Env,rmg-ne-epstdf-v-rg-net01,epstdf
+RMG Hosting Pre Production Env,rmg-ne-epstm-ppd-rg-app-01,epstm
+RMG Hosting Pre Production Env,rmg-ne-epstm-ppd-rg-net01,epstm
+RMG Hosting Pre Production Env,rmg-ne-escore-v-rg-app-01,unknown
+RMG Hosting Pre Production Env,rmg-ne-escore-v-rg-net01,unknown
+RMG Hosting Pre Production Env,rmg-ne-goldbuild-v-rg-vm-01,goldbuild
+RMG Hosting Pre Production Env,rmg-ne-iam-v-rg-app-01,iam
+RMG Hosting Pre Production Env,rmg-ne-intutil-ppd-rg-net01,intutil
+RMG Hosting Pre Production Env,rmg-ne-opg-ppd-rg-net01,opg
+RMG Hosting Pre Production Env,rmg-ne-opg-ppd-rg-pdl-01,opg
+RMG Hosting Pre Production Env,rmg-ne-pdacomms-ppd-rg-pdl-01,pdacomms
+RMG Hosting Pre Production Env,rmg-ne-pdacspsms-ppd-rg-pdl-01,pdacspsms
+RMG Hosting Pre Production Env,rmg-ne-pdahandler-ppd-rg-net01,pdahandler
+RMG Hosting Pre Production Env,rmg-ne-pdahandler-ppd-rg-pdl-01,pdahandler
+RMG Hosting Pre Production Env,rmg-ne-pdaidm-ppd-rg-pdl-01,pdaidm
+RMG Hosting Pre Production Env,rmg-ne-pdaiot-ppd-rg-pdl-01,pdaiot
+RMG Hosting Pre Production Env,rmg-ne-pdamds-ppd-rg-app-01,pdamds
+RMG Hosting Pre Production Env,rmg-ne-pdamds-ppd-rg-net01,pdamds
+RMG Hosting Pre Production Env,rmg-ne-pdaportal-ppd-rg-app-01,pdaportal
+RMG Hosting Pre Production Env,rmg-ne-pdaportal-ppd-rg-net01,pdaportal
+RMG Hosting Pre Production Env,rmg-ne-pdarefdata-ppd-rg-pdl-01,pdarefdata
+RMG Hosting Pre Production Env,rmg-ne-pdatest-ppd-rg-vm01,pdatest
+RMG Hosting Pre Production Env,rmg-ne-pdatma-ppd-rg-pdl-01,pdatma
+RMG Hosting Pre Production Env,rmg-ne-rmappman-ppd-rg-app-01,rmappman
+RMG Hosting Pre Production Env,rmg-ne-smsp-v-rg-net01,smsp
+RMG Hosting Pre Production Env,rmg-shared-image-gallery-ppd,image
+RMG Hosting Pre Production Env,rmg-we-adoagt-ppd-rg-app-01,adoagt
+RMG Hosting Pre Production Env,rmg-we-adoagt-ppd-rg-net01,adoagt
+RMG Hosting Pre Production Env,rmg-we-als-ppd-rg-net01,als
+RMG Hosting Pre Production Env,rmg-we-als-ppd-rg-pdl-01,als
+RMG Hosting Pre Production Env,rmg-we-azbkp-v-rg-app-01,azbkp
+RMG Hosting Pre Production Env,rmg-we-bat-ppd-rg-svc-01,bat
+RMG Hosting Pre Production Env,rmg-we-bigapp-ppd-rg-app-01,bigapp
+RMG Hosting Pre Production Env,rmg-we-bigapp-ppd-rg-net01,bigapp
+RMG Hosting Pre Production Env,rmg-we-bigint-ppd-rg-app-01,bigint
+RMG Hosting Pre Production Env,rmg-we-bigint-ppd-rg-net01,bigint
+RMG Hosting Pre Production Env,rmg-we-bigmqa-ppd-rg-app-01,bigmqa
+RMG Hosting Pre Production Env,rmg-we-bigmqa-ppd-rg-net01,bigmqa
+RMG Hosting Pre Production Env,rmg-we-bigpapi-ppd-rg-net01,bigpapi
+RMG Hosting Pre Production Env,rmg-we-bigpapi-ppd-rg-pdl-01,bigpapi
+RMG Hosting Pre Production Env,rmg-we-bigutil-ppd-rg-app-01,bigutil
+RMG Hosting Pre Production Env,rmg-we-bigutil-ppd-rg-net01,bigutil
+RMG Hosting Pre Production Env,rmg-we-cpp-ppd-rg-app-01,cpp
+RMG Hosting Pre Production Env,rmg-we-cpp-ppd-rg-net01,cpp
+RMG Hosting Pre Production Env,rmg-we-cpp-ppd-rg-ops-01,cpp
+RMG Hosting Pre Production Env,rmg-we-cpp-ppd-rg-sps-01,cpp
+RMG Hosting Pre Production Env,rmg-we-cpp-ppd-rg-ss-01,cpp
+RMG Hosting Pre Production Env,rmg-we-dilodo-ppd-rg-app-01,dilodo
+RMG Hosting Pre Production Env,rmg-we-dilodo-ppd-rg-net01,dilodo
+RMG Hosting Pre Production Env,rmg-we-dilodo-ppd-rg-vm-01,dilodo
+RMG Hosting Pre Production Env,rmg-we-dps-man-v-rg-net01,dps
+RMG Hosting Pre Production Env,rmg-we-dps-man-v-rg-vm-01,dps
+RMG Hosting Pre Production Env,rmg-we-dps-v-rg-app-01,dps
+RMG Hosting Pre Production Env,rmg-we-dps-v-rg-net01,dps
+RMG Hosting Pre Production Env,rmg-we-dps-v-rg-sps-01,dps
+RMG Hosting Pre Production Env,rmg-we-dps-v-rg-ss-01,dps
+RMG Hosting Pre Production Env,rmg-we-drs-v-rg-app-01,drs
+RMG Hosting Pre Production Env,rmg-we-drs-v-rg-net01,drs
+RMG Hosting Pre Production Env,rmg-we-drs-v-rg-sps-01,drs
+RMG Hosting Pre Production Env,rmg-we-drs-v-rg-ss-01,drs
+RMG Hosting Pre Production Env,rmg-we-edm-ppd-rg-pdl-01,edm
+RMG Hosting Pre Production Env,rmg-we-eis-ppd-rg-app-01,eis
+RMG Hosting Pre Production Env,rmg-we-eis-ppd-rg-ops-01,eis
+RMG Hosting Pre Production Env,rmg-we-eis-ppd-rg-sps-01,eis
+RMG Hosting Pre Production Env,rmg-we-eis-ppd-rg-ss-01,eis
+RMG Hosting Pre Production Env,rmg-we-elecrep-v-rg-app-01,elecrep
+RMG Hosting Pre Production Env,rmg-we-epsbmsui-v-rg-net01,epsbmsui
+RMG Hosting Pre Production Env,rmg-we-epsbms-v-rg-net01,epsbms
+RMG Hosting Pre Production Env,rmg-we-epscommon-v-rg-app-01,epscommon
+RMG Hosting Pre Production Env,rmg-we-epscommon-v-rg-net01,epscommon
+RMG Hosting Pre Production Env,rmg-we-epsmani-v-rg-app-01,epsmani
+RMG Hosting Pre Production Env,rmg-we-epsmani-v-rg-net01,epsmani
+RMG Hosting Pre Production Env,rmg-we-epsmapi-ppd-rg-net01,epsmapi
+RMG Hosting Pre Production Env,rmg-we-epsord-v-rg-net01,epsord
+RMG Hosting Pre Production Env,rmg-we-epspapi-ppd-rg-app-01,epspapi
+RMG Hosting Pre Production Env,rmg-we-epspb-ppd-rg-app-01,epspb
+RMG Hosting Pre Production Env,rmg-we-epssecapi-ppd-rg-app-01,epssecapi
+RMG Hosting Pre Production Env,rmg-we-epsshared-ppd-rg-app-01,epsshared
+RMG Hosting Pre Production Env,rmg-we-epsshared-ppd-rg-net01,epsshared
+RMG Hosting Pre Production Env,rmg-we-epstapi-v-rg-app-01,epstapi
+RMG Hosting Pre Production Env,rmg-we-epstapi-v-rg-net01,epstapi
+RMG Hosting Pre Production Env,rmg-we-epstm-ppd-rg-app-01,epstm
+RMG Hosting Pre Production Env,rmg-we-epstm-ppd-rg-net01,epstm
+RMG Hosting Pre Production Env,rmg-we-escore-v-rg-app-01,unknown
+RMG Hosting Pre Production Env,rmg-we-escore-v-rg-net01,unknown
+RMG Hosting Pre Production Env,rmg-we-hue-ppd-rg-cs-01,hue
+RMG Hosting Pre Production Env,rmg-we-hue-ppd-rg-net01,hue
+RMG Hosting Pre Production Env,rmg-we-hue-ppd-rg-ops-01,hue
+RMG Hosting Pre Production Env,rmg-we-hue-ppd-rg-sps-01,hue
+RMG Hosting Pre Production Env,rmg-we-hue-ppd-rg-ss-01,hue
+RMG Hosting Pre Production Env,rmg-we-intutil-ppd-rg-net01,intutil
+RMG Hosting Pre Production Env,rmg-we-opg-ppd-rg-net01,opg
+RMG Hosting Pre Production Env,rmg-we-opg-ppd-rg-pdl-01,opg
+RMG Hosting Pre Production Env,rmg-we-pdacomms-ppd-rg-pdl-01,pdacomms
+RMG Hosting Pre Production Env,rmg-we-pdacspsms-ppd-rg-pdl-01,pdacspsms
+RMG Hosting Pre Production Env,rmg-we-pdahandler-ppd-rg-net01,pdahandler
+RMG Hosting Pre Production Env,rmg-we-pdahandler-ppd-rg-pdl-01,pdahandler
+RMG Hosting Pre Production Env,rmg-we-pdaidm-ppd-rg-pdl-01,pdaidm
+RMG Hosting Pre Production Env,rmg-we-pdaiot-ppd-rg-pdl-01,pdaiot
+RMG Hosting Pre Production Env,rmg-we-pdamds-ppd-rg-app-01,pdamds
+RMG Hosting Pre Production Env,rmg-we-pdamds-ppd-rg-net01,pdamds
+RMG Hosting Pre Production Env,rmg-we-pdaportal-ppd-rg-app-01,pdaportal
+RMG Hosting Pre Production Env,rmg-we-pdaportal-ppd-rg-net01,pdaportal
+RMG Hosting Pre Production Env,rmg-we-pdarefdata-ppd-rg-pdl-01,pdarefdata
+RMG Hosting Pre Production Env,rmg-we-pdatma-ppd-rg-pdl-01,pdatma
+RMG Hosting Pre Production Env,rmg-we-rmappman-ppd-rg-app-01,rmappman
+RMG Hosting Pre Production Env,rmg-we-smsp-v-rg-net01,smsp
+RMG Hosting Pre Production Env,rmg-we-soms-iaas-v-rg-app-01,soms
+RMG Hosting Pre Production Env,rmg-we-soms-v-rg-app-01,soms
+RMG Hosting Pre Production Env,rmg-we-soms-v-rg-net01,soms
+RMG Hosting Pre Production Env,rmg-we-sra-ppd-rg-cs-01,sra
+RMG Hosting Pre Production Env,rmg-we-sra-ppd-rg-net01,sra
+RMG Hosting Pre Production Env,rmg-we-sra-ppd-rg-ops-01,sra
+RMG Hosting Pre Production Env,rmg-we-sra-ppd-rg-sps-01,sra
+RMG Hosting Pre Production Env,rmg-we-sra-ppd-rg-ss-01,sra
+RMG Hosting Pre Production Env,rmg-we-udg-ppd-rg-cs-01,udg
+RMG Hosting Pre Production Env,rmg-we-udg-ppd-rg-net01,udg
+RMG Hosting Pre Production Env,rmg-we-udg-ppd-rg-ops-01,udg
+RMG Hosting Pre Production Env,rmg-we-udg-ppd-rg-sps-01,udg
+RMG Hosting Pre Production Env,rmg-we-udg-ppd-rg-ss-01,udg
+RMG Hosting Production Env,pfw-ne-ihc-prd-rg-app-01,ihc
+RMG Hosting Production Env,pfw-ne-ihc-prd-rg-mt-01,ihc
+RMG Hosting Production Env,pfw-ne-ihc-prd-rg-net01,ihc
+RMG Hosting Production Env,pfw-ne-pod-prd-rg-cs-01,pod
+RMG Hosting Production Env,pfw-ne-pod-prd-rg-ss-01,pod
+RMG Hosting Production Env,pfw-we-ihc-prd-rg-app-01,ihc
+RMG Hosting Production Env,pfw-we-ihc-prd-rg-mt-01,ihc
+RMG Hosting Production Env,pfw-we-ihc-prd-rg-net01,ihc
+RMG Hosting Production Env,pfw-we-pod-prd-rg-cs-01,pod
+RMG Hosting Production Env,pfw-we-pod-prd-rg-ss-01,pod
+RMG Hosting Production Env,rmg-ne-adoagt-prd-rg-app-01,adoagt
+RMG Hosting Production Env,rmg-ne-adoagt-prd-rg-net01,adoagt
+RMG Hosting Production Env,rmg-ne-als-prd-rg-net01,als
+RMG Hosting Production Env,rmg-ne-als-prd-rg-pdl-01,als
+RMG Hosting Production Env,rmg-ne-azbkp-p-rg-app-01,azbkp
+RMG Hosting Production Env,rmg-ne-barcoding-p-rg-vm-01,barcoding
+RMG Hosting Production Env,rmg-ne-bat-prd-rg-svc-01,bat
+RMG Hosting Production Env,rmg-ne-bigapp-prd-rg-app-01,bigapp
+RMG Hosting Production Env,rmg-ne-bigapp-prd-rg-net01,bigapp
+RMG Hosting Production Env,rmg-ne-bigint-prd-rg-app-01,bigint
+RMG Hosting Production Env,rmg-ne-bigint-prd-rg-net01,bigint
+RMG Hosting Production Env,rmg-ne-bigmqa-prd-rg-app-01,bigmqa
+RMG Hosting Production Env,rmg-ne-bigmqa-prd-rg-net01,bigmqa
+RMG Hosting Production Env,rmg-ne-bigpapi-prd-rg-net01,bigpapi
+RMG Hosting Production Env,rmg-ne-bigutil-prd-rg-app-01,bigutil
+RMG Hosting Production Env,rmg-ne-bigutil-prd-rg-net01,bigutil
+RMG Hosting Production Env,rmg-ne-cpp-prd-rg-app-01,cpp
+RMG Hosting Production Env,rmg-ne-cpp-prd-rg-net01,cpp
+RMG Hosting Production Env,rmg-ne-cpp-prd-rg-ops-01,cpp
+RMG Hosting Production Env,rmg-ne-cpp-prd-rg-sps-01,cpp
+RMG Hosting Production Env,rmg-ne-cpp-prd-rg-ss-01,cpp
+RMG Hosting Production Env,rmg-ne-dcs-prd-rg-app-01,dcs
+RMG Hosting Production Env,rmg-ne-dcs-prd-rg-net01,dcs
+RMG Hosting Production Env,rmg-ne-dilodo-prd-rg-net01,dilodo
+RMG Hosting Production Env,rmg-ne-dps-man-p-rg-net01,dps
+RMG Hosting Production Env,rmg-ne-dps-man-p-rg-vm-01,dps
+RMG Hosting Production Env,rmg-ne-dps-p-rg-app-01,dps
+RMG Hosting Production Env,rmg-ne-dps-p-rg-net01,dps
+RMG Hosting Production Env,rmg-ne-dps-p-rg-sps-01,dps
+RMG Hosting Production Env,rmg-ne-dps-p-rg-ss-01,dps
+RMG Hosting Production Env,rmg-ne-drs-p-rg-app-01,drs
+RMG Hosting Production Env,rmg-ne-drs-p-rg-net01,drs
+RMG Hosting Production Env,rmg-ne-drs-p-rg-sps-01,drs
+RMG Hosting Production Env,rmg-ne-drs-p-rg-ss-01,drs
+RMG Hosting Production Env,rmg-ne-edm-prd-rg-mgmt-01,edm
+RMG Hosting Production Env,rmg-ne-edm-prd-rg-pdl-01,edm
+RMG Hosting Production Env,rmg-ne-eis-prd-rg-app-01,eis
+RMG Hosting Production Env,rmg-ne-eis-prd-rg-ops-01,eis
+RMG Hosting Production Env,rmg-ne-eis-prd-rg-sps-01,eis
+RMG Hosting Production Env,rmg-ne-eis-prd-rg-ss-01,eis
+RMG Hosting Production Env,rmg-ne-elecrep-prd-rg-app-01,elecrep
+RMG Hosting Production Env,rmg-ne-epsbms-p-rg-net01,epsbms
+RMG Hosting Production Env,rmg-ne-epsbmsui-p-rg-net01,epsbmsui
+RMG Hosting Production Env,rmg-ne-epsmani-p-rg-net01,epsmani
+RMG Hosting Production Env,rmg-ne-epspapi-prd-rg-net01,epspapi
+RMG Hosting Production Env,rmg-ne-epsshared-prd-rg-app-01,epsshared
+RMG Hosting Production Env,rmg-ne-epsshared-prd-rg-net01,epsshared
+RMG Hosting Production Env,rmg-ne-epstm-prd-rg-net01,epstm
+RMG Hosting Production Env,rmg-ne-etpc-prd-rg-app-01,etpc
+RMG Hosting Production Env,rmg-ne-etpc-prd-rg-net01,etpc
+RMG Hosting Production Env,rmg-ne-etpc-prd-rg-vm-01,etpc
+RMG Hosting Production Env,rmg-ne-intutil-p-rg-net01,intutil
+RMG Hosting Production Env,rmg-ne-opg-prd-rg-net01,opg
+RMG Hosting Production Env,rmg-ne-opg-prd-rg-pdl-01,opg
+RMG Hosting Production Env,rmg-ne-pdacomms-prd-rg-pdl-01,pdacomms
+RMG Hosting Production Env,rmg-ne-pdacspsms-prd-rg-pdl-01,pdacspsms
+RMG Hosting Production Env,rmg-ne-pdaff-p-rg-app-01,pdaff
+RMG Hosting Production Env,rmg-ne-pdahandler-prd-rg-net01,pdahandler
+RMG Hosting Production Env,rmg-ne-pdahandler-prd-rg-pdl-01,pdahandler
+RMG Hosting Production Env,rmg-ne-pdaidm-prd-rg-pdl-01,pdaidm
+RMG Hosting Production Env,rmg-ne-pdaiot-prd-rg-pdl-01,pdaiot
+RMG Hosting Production Env,rmg-ne-pdamds-prd-rg-app-01,pdamds
+RMG Hosting Production Env,rmg-ne-pdamds-prd-rg-net01,pdamds
+RMG Hosting Production Env,rmg-ne-pdaportal-prd-rg-app-01,pdaportal
+RMG Hosting Production Env,rmg-ne-pdaportal-prd-rg-net01,pdaportal
+RMG Hosting Production Env,rmg-ne-pdarefdata-prd-rg-pdl-01,pdarefdata
+RMG Hosting Production Env,rmg-ne-pdatma-prd-rg-pdl-01,pdatma
+RMG Hosting Production Env,rmg-ne-rmappman-prd-rg-app-01,rmappman
+RMG Hosting Production Env,rmg-we-adoagt-prd-rg-net01,adoagt
+RMG Hosting Production Env,rmg-we-alexa-prd-rgredis01,alexa
+RMG Hosting Production Env,rmg-we-alexa-prd-rgsrvless01,alexa
+RMG Hosting Production Env,rmg-we-als-prd-rg-net01,als
+RMG Hosting Production Env,rmg-we-als-prd-rg-pdl-01,als
+RMG Hosting Production Env,rmg-we-azbkp-p-rg-app-01,azbkp
+RMG Hosting Production Env,rmg-we-bat-prd-rg-svc-01,bat
+RMG Hosting Production Env,rmg-we-bigapp-prd-rg-app-01,bigapp
+RMG Hosting Production Env,rmg-we-bigapp-prd-rg-net01,bigapp
+RMG Hosting Production Env,rmg-we-bigint-prd-rg-app-01,bigint
+RMG Hosting Production Env,rmg-we-bigint-prd-rg-net01,bigint
+RMG Hosting Production Env,rmg-we-bigmqa-prd-rg-app-01,bigmqa
+RMG Hosting Production Env,rmg-we-bigmqa-prd-rg-net01,bigmqa
+RMG Hosting Production Env,rmg-we-bigpapi-prd-rg-net01,bigpapi
+RMG Hosting Production Env,rmg-we-bigpapi-prd-rg-pdl-01,bigpapi
+RMG Hosting Production Env,rmg-we-bigutil-prd-rg-app-01,bigutil
+RMG Hosting Production Env,rmg-we-bigutil-prd-rg-net01,bigutil
+RMG Hosting Production Env,rmg-we-cdf-prd-rg-app-01,cdf
+RMG Hosting Production Env,rmg-we-cdf-prd-rg-bld-01,cdf
+RMG Hosting Production Env,rmg-we-cpp-prd-rg-app-01,cpp
+RMG Hosting Production Env,rmg-we-cpp-prd-rg-net01,cpp
+RMG Hosting Production Env,rmg-we-cpp-prd-rg-ops-01,cpp
+RMG Hosting Production Env,rmg-we-cpp-prd-rg-sps-01,cpp
+RMG Hosting Production Env,rmg-we-cpp-prd-rg-ss-01,cpp
+RMG Hosting Production Env,rmg-we-dcs-prd-rg-app-01,dcs
+RMG Hosting Production Env,rmg-we-dcs-prd-rg-net01,dcs
+RMG Hosting Production Env,rmg-we-dilodo-prd-rg-app-01,dilodo
+RMG Hosting Production Env,rmg-we-dilodo-prd-rg-net01,dilodo
+RMG Hosting Production Env,rmg-we-dilodo-prd-rg-vm-01,dilodo
+RMG Hosting Production Env,rmg-we-dps-man-p-rg-net01,dps
+RMG Hosting Production Env,rmg-we-dps-man-p-rg-vm-01,dps
+RMG Hosting Production Env,rmg-we-dps-p-rg-app-01,dps
+RMG Hosting Production Env,rmg-we-dps-p-rg-net01,dps
+RMG Hosting Production Env,rmg-we-dps-p-rg-sps-01,dps
+RMG Hosting Production Env,rmg-we-dps-p-rg-ss-01,dps
+RMG Hosting Production Env,rmg-we-drs-p-rg-app-01,drs
+RMG Hosting Production Env,rmg-we-drs-p-rg-net01,drs
+RMG Hosting Production Env,rmg-we-drs-p-rg-sps-01,drs
+RMG Hosting Production Env,rmg-we-drs-p-rg-ss-01,drs
+RMG Hosting Production Env,rmg-we-edm-prd-rg-pdl-01,edm
+RMG Hosting Production Env,rmg-we-eis-prd-rg-app-01,eis
+RMG Hosting Production Env,rmg-we-eis-prd-rg-ops-01,eis
+RMG Hosting Production Env,rmg-we-eis-prd-rg-sps-01,eis
+RMG Hosting Production Env,rmg-we-eis-prd-rg-ss-01,eis
+RMG Hosting Production Env,rmg-we-elecrep-prd-rg-app-01,elecrep
+RMG Hosting Production Env,rmg-we-epsbms-p-rg-app-01,epsbms
+RMG Hosting Production Env,rmg-we-epsbms-p-rg-net01,epsbms
+RMG Hosting Production Env,rmg-we-epsbmsui-p-rg-app-01,epsbmsui
+RMG Hosting Production Env,rmg-we-epsbmsui-p-rg-net01,epsbmsui
+RMG Hosting Production Env,rmg-we-epscommon-p-rg-net01,epscommon
+RMG Hosting Production Env,rmg-we-epsmani-p-rg-app-01,epsmani
+RMG Hosting Production Env,rmg-we-epsmani-p-rg-net01,epsmani
+RMG Hosting Production Env,rmg-we-epsmapi-prd-rg-net01,epsmapi
+RMG Hosting Production Env,rmg-we-epsord-p-rg-app-01,epsord
+RMG Hosting Production Env,rmg-we-epsord-p-rg-net01,epsord
+RMG Hosting Production Env,rmg-we-epspapi-prd-rg-app-01,epspapi
+RMG Hosting Production Env,rmg-we-epspapi-prd-rg-net01,epspapi
+RMG Hosting Production Env,rmg-we-epspb-prd-rg-app-01,epspb
+RMG Hosting Production Env,rmg-we-epssecapi-prd-rg-app-01,epssecapi
+RMG Hosting Production Env,rmg-we-epsshared-prd-rg-app-01,epsshared
+RMG Hosting Production Env,rmg-we-epsshared-prd-rg-net01,epsshared
+RMG Hosting Production Env,rmg-we-epstapi-p-rg-net01,epstapi
+RMG Hosting Production Env,rmg-we-epstdf-p-rg-app-01,epstdf
+RMG Hosting Production Env,rmg-we-epstdf-p-rg-net01,epstdf
+RMG Hosting Production Env,rmg-we-epstm-prd-rg-app-01,epstm
+RMG Hosting Production Env,rmg-we-epstm-prd-rg-net01,epstm
+RMG Hosting Production Env,rmg-we-etpc-prd-rg-app-01,etpc
+RMG Hosting Production Env,rmg-we-etpc-prd-rg-net01,etpc
+RMG Hosting Production Env,rmg-we-hue-prd-rg-cs-01,hue
+RMG Hosting Production Env,rmg-we-hue-prd-rg-net01,hue
+RMG Hosting Production Env,rmg-we-hue-prd-rg-ops-01,hue
+RMG Hosting Production Env,rmg-we-hue-prd-rg-sps-01,hue
+RMG Hosting Production Env,rmg-we-hue-prd-rg-ss-01,hue
+RMG Hosting Production Env,rmg-we-intutil-p-rg-net01,intutil
+RMG Hosting Production Env,rmg-we-opg-prd-rg-net01,opg
+RMG Hosting Production Env,rmg-we-opg-prd-rg-pdl-01,opg
+RMG Hosting Production Env,rmg-we-pdacomms-prd-rg-pdl-01,pdacomms
+RMG Hosting Production Env,rmg-we-pdacspsms-prd-rg-pdl-01,pdacspsms
+RMG Hosting Production Env,rmg-we-pdaff-p-rg-app-01,pdaff
+RMG Hosting Production Env,rmg-we-pdahandler-prd-rg-net01,pdahandler
+RMG Hosting Production Env,rmg-we-pdahandler-prd-rg-pdl-01,pdahandler
+RMG Hosting Production Env,rmg-we-pdaidm-prd-rg-pdl-01,pdaidm
+RMG Hosting Production Env,rmg-we-pdaiot-prd-rg-pdl-01,pdaiot
+RMG Hosting Production Env,rmg-we-pdamds-prd-rg-app-01,pdamds
+RMG Hosting Production Env,rmg-we-pdamds-prd-rg-net01,pdamds
+RMG Hosting Production Env,rmg-we-pdaportal-prd-rg-app-01,pdaportal
+RMG Hosting Production Env,rmg-we-pdaportal-prd-rg-net01,pdaportal
+RMG Hosting Production Env,rmg-we-pdarefdata-prd-rg-pdl-01,pdarefdata
+RMG Hosting Production Env,rmg-we-pdatma-prd-rg-pdl-01,pdatma
+RMG Hosting Production Env,rmg-we-rmappman-prd-rg-app-01,rmappman
+RMG Hosting Production Env,rmg-we-soms-iaas-p-rg-app-01,soms
+RMG Hosting Production Env,rmg-we-soms-p-rg-app-01,soms
+RMG Hosting Production Env,rmg-we-soms-p-rg-net01,soms
+RMG Hosting Production Env,rmg-we-sra-prd-rg-cs-01,sra
+RMG Hosting Production Env,rmg-we-sra-prd-rg-net01,sra
+RMG Hosting Production Env,rmg-we-sra-prd-rg-ops-01,sra
+RMG Hosting Production Env,rmg-we-sra-prd-rg-sps-01,sra
+RMG Hosting Production Env,rmg-we-sra-prd-rg-ss-01,sra
+RMG Hosting Production Env,rmg-we-udg-prd-rg-cs-01,udg
+RMG Hosting Production Env,rmg-we-udg-prd-rg-net01,udg
+RMG Hosting Production Env,rmg-we-udg-prd-rg-ops-01,udg
+RMG Hosting Production Env,rmg-we-udg-prd-rg-sps-01,udg
+RMG Hosting Production Env,rmg-we-udg-prd-rg-ss-01,udg
+"RMG Hosting Production Env, RMG Hosting Core Infrastructure Env",azureapp-auto-alerts-b7d95c-david_cryer_royalmail_com,alerts
+"RMG Hosting Production Env, RMG Hosting Core Infrastructure Env",rmg-ne-pdacore-prd-rg-pdl-01,pdacore
+"RMG Hosting Production Env, RMG Hosting Core Infrastructure Env",rmg-we-pdacore-prd-rg-pdl-01,pdacore
+"RMG Hosting Production Env, RMG Hosting Non Production Env, RMG Hosting Pre Production Env",$system,system
+RMG PCS,pcs_kiosk_mode,pcs
+RMG PCS,zscaler_poc,zcaler
+RMG VDI,rmg-gold-images-npd-ne,images
+RMG VDI,rmg-ne-mon-vdi-rg-log01,mon
+RMG VDI,rmg-ne-wvdi-npd-rg-net01,wvdi
+RMG VDI,rmg-ne-wvd-npd-rg-scale01,wvd
+RMG VDI,rmg-ne-wvd-npd-rg-wvd01,wvd
+RMG VDI,rmg-ne-wvd-npd-rg-wvd02,wvd
+RMG VDI,rmg-ne-wvd-npd-rg-wvd03,wvd
+RMG VDI,rmg-ne-wvd-npd-rg-wvd04,wvd
+RMG VDI,rmg-we-mon-vdi-rg-log01,mon
+rmg-coreinfra-azarc-p-sub-01,rmg-we-azarc-p-rg-app-01,azarc
+rmg-cpl-cn-sub-01,rmg-ne-cn-p-rg-hub01,cn
+rmg-cpl-cn-sub-01,rmg-ne-cn-p-rg-vng01,cn
+rmg-cpl-cn-sub-01,rmg-ne-cn-vn-rg-hub01,cn
+rmg-cpl-cn-sub-01,rmg-ne-cn-vn-rg-vng01,cn
+rmg-cpl-cn-sub-01,rmg-ne-ddos-p-rg-npp01,ddos
+rmg-cpl-cn-sub-01,rmg-ne-dmz-p-rg-pfw01,dmz
+rmg-cpl-cn-sub-01,rmg-ne-dmz-vn-rg-pfw01,dmz
+rmg-cpl-cn-sub-01,rmg-ne-intdmz-p-rg-pfw01,intdmz
+rmg-cpl-cn-sub-01,rmg-ne-intdmz-vn-rg-pfw01,intdmz
+rmg-cpl-cn-sub-01,rmg-we-cn-p-rg-hub01,cn
+rmg-cpl-cn-sub-01,rmg-we-cn-p-rg-vng01,cn
+rmg-cpl-cn-sub-01,rmg-we-cn-vn-rg-hub01,cn
+rmg-cpl-cn-sub-01,rmg-we-cn-vn-rg-vng01,cn
+rmg-cpl-cn-sub-01,rmg-we-dmz-p-rg-pfw01,dmz
+rmg-cpl-cn-sub-01,rmg-we-dmz-vn-rg-pfw01,dmz
+rmg-cpl-cn-sub-01,rmg-we-intdmz-p-rg-pfw01,intdmz
+rmg-cpl-cn-sub-01,rmg-we-intdmz-vn-rg-pfw01,intdmz
+rmg-cpl-cntest-sub-01,rmg-ne-bttest-v-rg-tst01,bttest
+rmg-cpl-cntest-sub-01,rmg-ne-cfpoc-p-rg-cfp01,cfpoc
+rmg-cpl-cntest-sub-01,rmg-ne-cfpoc-v-rg-cfp01,cfpoc
+rmg-cpl-cntest-sub-01,rmg-we-bttest-v-rg-tst01,bttest
+rmg-cpl-cntest-sub-01,rmg-we-cfpoc-p-rg-cfp01,cfpoc
+rmg-cpl-cntest-sub-01,rmg-we-cfpoc-v-rg-cfp01,cfpoc
+rmg-cpl-id-sub-01,rmg-ne-id-p-rg-adc01,id
+rmg-cpl-id-sub-01,rmg-ne-id-p-rg-pdns01,id
+rmg-cpl-id-sub-01,rmg-ne-id-vn-rg-adc01,id
+rmg-cpl-id-sub-01,rmg-we-id-p-rg-adc01,id
+rmg-cpl-id-sub-01,rmg-we-id-vn-rg-adc01,id
+rmg-cpl-id-sub-01,rmwwetst9001_group,unknown
+rmg-cpl-mg-sub-01,rgdhilltestsa,unknown
+rmg-cpl-mg-sub-01,rmg-ne-mg-p-rg-law01,mg
+rmg-cpl-mg-sub-01,rmg-ne-mg-p-rg-sa01,mg
+rmg-cpl-mg-sub-01,rmg-we-bldagt-p-rg-vm01,bldagt
+rmg-cpl-mg-sub-01,rmg-we-mg-p-rg-law01,mg
+rmg-cpl-mg-sub-01,rmg-we-mg-p-rg-sa01,mg
+rmg-cpl-mgtest-sub-01,dhillatostesting,unknown
+rmg-cpl-sec-sub-01,rmg-ne-sec-p-rg-bas01,sec
+rmg-cpl-sec-sub-01,rmg-ne-sec-p-rg-pan01,sec
+rmg-cpl-sec-sub-01,rmg-ne-sec-p-rg-sys01,sec
+rmg-cpl-sec-sub-01,rmg-we-sec-p-rg-bas01,sec
+rmg-cpl-sec-sub-01,rmg-we-sec-p-rg-pan01,sec
+rmg-cpl-sec-sub-01,rmg-we-sec-p-rg-sys01,sec
+rmg-dsp-v01-d-sub-01,rmg-dsp-v01-d-sub-01test,v01
+rmg-dsp-v01-d-sub-01,rmg-ne-dsp-d-rg-op-ps-01,dsp
+rmg-dsp-v01-d-sub-01,test-rsv-wt,unknown
+rmg-dsp-v01-d-sub-01,test-zpa,unknown
+RMGN LZ NPD Internal,terraform,unknown
+RMGN PL Connectivity,rmgn-dns,unknown
+RMGN PL Management,rmgn-mgmt,unknown
+RMGN PL Seed,rmg-we-caf-p-rg-idn01,caf
+RMGN PL Seed,rmg-we-caf-p-rg-inf01,caf
+RMGN PL Seed,rmg-we-caf-p-rg-net01,caf
+rmg-test11-run11-p-sub-01,rgdhillpolicytesting,unknown
+rmg-test12-run12-v-sub-01,rgdhillnepolicytesting,unknown
+rmg-zpa-lz-p-sub-01,rmg-ne-zpaac-p-rg-vm01,zpaac
+rmg-zpa-lz-p-sub-01,rmg-ne-zpapse-p-rg-vm01,zpapse
+rmg-zpa-lz-p-sub-01,rmg-we-zpaac-p-rg-vm01,zpaac
+rmg-zpa-lz-p-sub-01,rmg-we-zpapse-p-rg-vm01,zpapse
+RMNext Envrionment,rmgazurefilespoc,unknown
+RMNext Envrionment,rmnext_primary_resources,unknown
+RMNext Envrionment,rmnextlogs,unknown
+Sharepoint Production,group-infrastructure-productionvnet-migrated,productionvnet
+Sharepoint Production,infrastructure,unknown
+Sharepoint Production,rmgprdweb01,unknown
+Sharepoint Production,rmgproddns017027-migrated,unknown
+Sharepoint Test,rmgtestweb01,unknown
+StoreFeeder,default-web-westeurope,StoreFeeder
+StoreFeeder,sf-automation-rg,StoreFeeder
+StoreFeeder,sf-brochure-website,StoreFeeder
+StoreFeeder,sf-createbarcode,StoreFeeder
+StoreFeeder,sf-dev01-g-sfcwebsite_tm-rg,StoreFeeder
+StoreFeeder,sf-dev-01-we-dataretention-rg,StoreFeeder
+StoreFeeder,sf-dev01-we-redis_sfcache-rg,StoreFeeder
+StoreFeeder,sf-dev01-we-sfcreports-rg,StoreFeeder
+StoreFeeder,sf-functionapps,StoreFeeder
+StoreFeeder,sf-live01-g-sfcwebsite_tm-rg,StoreFeeder
+StoreFeeder,sf-live01-we-dataretention-rg,StoreFeeder
+StoreFeeder,sf-live01-we-redis_sfcache-rg,StoreFeeder
+StoreFeeder,sf-live01-we-sfcreports-rg,StoreFeeder
+StoreFeeder,sf-sfctesters-rg,StoreFeeder
+StoreFeeder,sf-uat01-g-sfcwebsite_tm-rg,StoreFeeder
+StoreFeeder,sf-uat01-we-dataretention,StoreFeeder
+StoreFeeder,sf-uat01-we-redis_sfcache-rg,StoreFeeder
+StoreFeeder,sf-uat01-we-sfcreports-rg,StoreFeeder
+StoreFeeder,storefeeder,StoreFeeder
+StoreFeeder,storefeederimagesgeo-migrated,StoreFeeder
+StoreFeeder,storefeederkeyvault,StoreFeeder
+StoreFeeder,storefeedertemp-migrated,StoreFeeder
+Test,rmg-ne-p-rg-test,unknown
+RMG Hosting Production Env,rmg-we-adoagt-prd-rg-app-01,unknown
+rmg-dsp-v01-d-sub-01,rmg-we-dsp-d-rg-ss-01,dsp
+rmg-dsp-v01-d-sub-01,rmg-ne-dsp-d-rg-pfwcamel-01,dps
+rmg-dsp-v01-d-sub-01,rmg-ne-dsp-d-rg-pfwdrupal-01,dps
+Click and Drop (SF Lite),sf-live01-hub-we-sql_jump_box-rg,Click and Drop (SF Lite)
+rmg-dsp-v01-c-sub-01,rmg-ne-dsp-c-rg-op-ps-01,dps
+rmg-dsp-v01-d-sub-01,rmg-ne-dsp-d-rg-rmldrupal-01,dps
+rmg-dsp-v01-d-sub-01,rmg-ne-dsp-d-rg-ss-01,dps
+rmg-dsp-v01-d-sub-01,rmg-ne-dsp-d-rg-privend-01,dps
+rmg-dsp-v01-d-sub-01,rmlaneadops7001_group,unknown
+rmg-dsp-v01-c-sub-01,rmg-ne-dsp-c-rg-privend-01,dps
+rmg-dsp-v01-c-sub-01,rmg-ne-dsp-c-rg-pfwcamel-01,dps
+Click and Drop (SF Lite),sf-dev01-we-loggingecksa-rg,Click and Drop (SF Lite)
+rmg-dsp-v01-d-sub-01,rmg-ne-dsp-d-rg-rmlcamel-01,unknown
+rmg-run17-test17-d-sub-01,rg-test,unknown
+Dhill Test Subscription 5,rg-nsgtesting,unknown
+rmg-dsp-v01-c-sub-01,rmg-ne-dsp-c-rg-migration-01,dps
+"rmg-dsp-v01-d-sub-01, Dhill Test Subscription 5, Click and Drop (SF Lite), RMG Hosting Non Production Env 2, rmg-cpl-id-sub-01, StoreFeeder, RMG VDI, RMG Hosting Core Infrastructure Env",networkwatcherrg,unknown
+StoreFeeder,storefeeder-ai,StoreFeeder
+Click and Drop (SF Lite),sf-dev01-we-apps_vnet-rg,Click and Drop (SF Lite)
+rmg-dsp-v01-c-sub-01,rmg-ne-dsp-c-rg-monitoring-01,dps
+rmg-dsp-v01-c-sub-01,rmg-ne-dsp-c-rg-ss-01,dps
+rmg-dsp-v01-d-sub-01,rmlaneadops7002_group,unknown
+rmg-dsp-v01-d-sub-01,test_group,unknown
+rmg-dsp-v01-d-sub-01,rmg-ne-dsp-d-rg-sps-01,dps
+Click and Drop (SF Lite),sf-uat02-g-k8sappssfctm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-live01-g-k8sappscndtm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-dev01-g-paymentcallbackgatewaytm-rg,Click and Drop (SF Lite)
+Click and Drop (SF Lite),sf-uat01-g-k8sappscndtm-rg,Click and Drop (SF Lite)
+rmg-dsp-v01-c-sub-01,rmg-ne-dsp-c-rg-sps-01,dsp
+Click and Drop (SF Lite),sf-uat02-g-k8sappscndtm-rg,Click and Drop (SF Lite)
+RMG Hosting Non Production Env,,unknown
+Click and Drop (SF Lite),,Click and Drop (SF Lite)
+rmg-cpl-sec-sub-01,,unknown
+StoreFeeder,,StoreFeeder
+Outdoor Actuals Project,,Outdoor Actuals Project
+Barcode Allocation,,Barcode Allocation
+RMGN PL Connectivity,,RMGN PL Connectivity
+Traffic Transformation,,Traffic Transformation
+RMGN PL Management,,RMGN PL Management
+Click and Drop Classic,,Click and Drop (SF Lite)
+Click and Drop (SF Lite) EA,,Click and Drop (SF Lite)
+Click And Drop Classic EA,,Click and Drop (SF Lite)
+StoreFeeder storage,,StoreFeeder
+rmg-cpl-cn-sub-01,,unknown
+(),,unknown

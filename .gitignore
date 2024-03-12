@@ -3,8 +3,9 @@
 
 # Data Excluded directories
 /data/
-/load-cost-data/input/
-/load-reference-data/input/
+/load-cost-data/input
+/load-data/input
+/load-data/output
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

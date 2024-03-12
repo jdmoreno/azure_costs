@@ -58,3 +58,17 @@ AREAS: Key: Affix, Value: Area
 ENVIRONMENTS: Key: Azure Subscription, Value: Environment
 CAPABILITIES: Key: Affix, Value: Capability. This is populated only for EPS
 
+## Validation mode
+In validation mode the utility will write 4 CSV files
+./output/missing_subs_rg.csv : _Subscriptions_ and _Resource Groups_ entries not in resource_groups
+./output/missing_areas.csv : _AREAS_ and _Affixes_ entries not in reference_data
+./output/missing_areas.csv : _CAPABILITIES_ and _Affixes_ entries not in reference_data
+./output/missing_areas.csv : _ENVIRONMENTS_ and _subscription_name_ entries not in reference_data
+
+# Query to export data to excel
+```sql
+SELECT cost_period, area, capability, resource_type, environment, SUM(cost_c) 
+FROM public.cost_data
+GROUP BY cost_period, area, capability, resource_type, environment
+ORDER BY cost_period ASC, area ASC, capability ASC, resource_type ASC, environment ASC
+```
